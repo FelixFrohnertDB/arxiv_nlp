@@ -4,3 +4,7 @@
 arxiv_venv/
 *.json
 *.csv
+*.model
+*.npy
+*.txt
+*.db*
