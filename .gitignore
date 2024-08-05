@@ -8,3 +8,8 @@ arxiv_venv/
 *.npy
 *.txt
 *.db*
+*.pkl
+*.pt
+*.pth
+*.pdf
+*checkpoint*
