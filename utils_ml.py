@@ -26,9 +26,10 @@ class MLP(nn.Module):
         
         self.raw = nn.Sequential(
             Flatten(),
-            nn.Dropout(drop), nn.Linear(raw_size, 128), nn.PReLU(), nn.BatchNorm1d(128),
+            nn.Linear(raw_size, 128), nn.PReLU(), nn.BatchNorm1d(128),
             nn.Dropout(drop), nn.Linear(128, 64), nn.PReLU(), nn.BatchNorm1d(64),
-            nn.Dropout(drop), nn.Linear( 64, 64), nn.PReLU(), nn.BatchNorm1d(64))
+            nn.Dropout(drop), nn.Linear( 64, 64), nn.PReLU(), nn.BatchNorm1d(64)
+            )
         
         self.output = nn.Sequential(
             nn.Linear(64, 32), nn.ReLU(inplace=True), nn.Linear(32, 1), nn.Sigmoid())
