@@ -373,3 +373,51 @@ def plot_roc(model, dataloader):
     plt.title('Receiver Operating Characteristic (ROC) Curve')
     plt.legend(loc="lower right")
     plt.show()
+
+def compute_acc(model, dataloader):
+    model.eval()
+    all_labels = []
+    all_probs = []
+    correct = 0
+    total = 0
+    
+    with torch.no_grad():
+        for data, labels, _, _ in dataloader:
+            outputs = model(data.float())
+            probs = outputs.cpu().numpy()
+            predicted = (outputs > 0.5).float()  # Use 0.5 as threshold for binary classification
+            
+            total += labels.size(0)
+            correct += (predicted.cpu() == labels.cpu()).sum().item()
+            
+            all_probs.extend(probs)
+            all_labels.extend(labels.cpu().numpy())
+
+    # Calculate accuracy
+    accuracy = correct / total
+
+    return accuracy
+
+    # def replace_strings_with_indices(data, concept_to_index):
+#     # Create a new dictionary to store the converted data
+#     indexed_data = {}
+    
+#     # Iterate through the outer dictionary
+#     for concept1, nested_dict in data.items():
+#         # Replace the concept1 string with its index
+#         # print(concept_to_index[concept1])
+#         index1 = concept_to_index[concept1][0]
+#         indexed_data[index1] = {}
+        
+#         # Iterate through the inner dictionary
+#         for concept2, years in nested_dict.items():
+#             # Replace the concept2 string with its index
+            
+#             index2 = concept_to_index[concept2][0]
+#             indexed_data[index1][index2] = years
+    
+#     return indexed_data
+
+
+# concept_to_indices = {concept: np.where(concept_filtered_arr == concept)[0] for concept in np.unique(concept_filtered_arr)}
+# index_co_occurrences = replace_strings_with_indices(word_co_occurrences, concept_to_indices)

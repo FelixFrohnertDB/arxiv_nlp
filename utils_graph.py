@@ -13,14 +13,14 @@ import torch.nn as nn
 
 class MLP(nn.Module):
 
-    def __init__(self):
+    def __init__(self, input_size):
         """
         Fully Connected layers
         """
         super(MLP, self).__init__()
 
         self.semnet = nn.Sequential( # very small network for tests
-            nn.Linear(15, 128), nn.PReLU(), 
+            nn.Linear(input_size, 128), nn.PReLU(), 
             nn.Dropout(0.25), nn.Linear(128, 64), nn.PReLU(), 
             nn.Dropout(0.25), nn.Linear( 64, 64), nn.PReLU(), 
             nn.Linear(64, 32), nn.ReLU(inplace=True), nn.Linear(32, 1)
@@ -305,7 +305,7 @@ def create_training_data_biased(full_graph,year_start,years_delta,NUM_OF_VERTICE
 
 
 
-def calculate_ROC(data_vertex_pairs,data_solution, train_info, save=False):
+def calculate_ROC(data_vertex_pairs,data_solution, train_info="", save=False):
     data_solution=np.array(data_solution)
     data_vertex_pairs_sorted=data_solution[data_vertex_pairs]
     
@@ -343,6 +343,33 @@ def calculate_ROC(data_vertex_pairs,data_solution, train_info, save=False):
     plt.close()
 
     return AUC
+
+def calculate_accuracy(data_vertex_pairs, data_solution, train_info="", save=False):
+    data_solution = np.array(data_solution)
+    data_vertex_pairs_sorted = data_solution[data_vertex_pairs]
+    
+    correct_predictions = 0
+    total_predictions = len(data_vertex_pairs_sorted)
+    
+    for ii in range(total_predictions):
+        # Assuming `data_vertex_pairs_sorted` holds binary predictions (0 or 1)
+        if data_vertex_pairs_sorted[ii] == data_solution[ii]:
+            correct_predictions += 1
+    
+    # Calculate accuracy
+    accuracy = correct_predictions / total_predictions
+    
+    if save:
+        np.save(f"saved_files/accuracy_{train_info}.npy", accuracy)
+    
+    plt.title(f"Accuracy: {accuracy:.4f}; {train_info}")
+    plt.bar(["Correct Predictions", "Total Predictions"], [correct_predictions, total_predictions])
+    plt.ylabel("Count")
+    plt.show()
+    plt.close()
+
+    return accuracy
+
 
 def train_model(model_semnet, data_train0, data_train1, data_test0, data_test1, lr_enc, batch_size, data_source, year_start, year_delta):
     """
