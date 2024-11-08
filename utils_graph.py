@@ -305,7 +305,7 @@ def create_training_data_biased(full_graph,year_start,years_delta,NUM_OF_VERTICE
 
 
 
-def calculate_ROC(data_vertex_pairs,data_solution, train_info="", save=False):
+def calculate_ROC(data_vertex_pairs,data_solution, train_info="", save=False, directory=""):
     data_solution=np.array(data_solution)
     data_vertex_pairs_sorted=data_solution[data_vertex_pairs]
     
@@ -334,8 +334,8 @@ def calculate_ROC(data_vertex_pairs,data_solution, train_info="", save=False):
     xpos=np.array(xpos)/max(xpos)
     AUC=sum(ROC_vals)/len(ROC_vals)
     if save:
-        np.save("saved_files/fpr_baseline_3.npy",xpos)
-        np.save("saved_files/tpr_baseline_3.npy",ypos)
+        np.save(f"saved_files/fpr_{directory}.npy",xpos)
+        np.save(f"saved_files/tpr_{directory}.npy",ypos)
 
     plt.title(f"AUC: {AUC}; {train_info}")
     plt.plot(xpos, ypos)

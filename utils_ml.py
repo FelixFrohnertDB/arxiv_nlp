@@ -32,16 +32,19 @@ class MLP(nn.Module):
             )
         
         self.output = nn.Sequential(
-            nn.Linear(64, 32), nn.ReLU(inplace=True), nn.Linear(32, 1), nn.Sigmoid())
+            nn.Linear(64, 32), nn.PReLU(), nn.Linear(32, 1), nn.Sigmoid())
               
-        self.init_weights(nn.init.kaiming_normal_)
-        
-    def init_weights(self, init_fn):
-        def init(m): 
-            for child in m.children():
-                if isinstance(child, nn.Conv1d):
-                    init_fn(child.weights)
-        init(self)
+        self.init_weights()
+
+    def init_weights(self):
+        for layer in self.modules():
+            if isinstance(layer, nn.Linear):
+                nn.init.xavier_normal_(layer.weight)  # Initialize weights
+                if layer.bias is not None:
+                    nn.init.constant_(layer.bias, 0)  # Initialize biases to zero
+            elif isinstance(layer, nn.BatchNorm1d):
+                nn.init.constant_(layer.weight, 1)
+                nn.init.constant_(layer.bias, 0)
         
     def forward(self, t_raw):
         raw_out = self.raw(t_raw)

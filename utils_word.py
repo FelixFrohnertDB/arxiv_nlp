@@ -243,11 +243,22 @@ def get_baseline_1_embeddings(loaded_w2v: KeyedVectors, filtered_concept_arr: np
 #         memmap_array[:] = c_encoding_arr
 #         memmap_array.flush()
 
-def load_model_for_year(year):
-    """Load Word2Vec model for a specific year."""
-    return Word2Vec.load(f"saved_models/re_model_year_{year}.model")
+def load_model_for_year(year, model_type):
+    """Load a Word2Vec model for a specific year based on the given type."""
+    
+    model_paths = {
+        "time_informed_simple": f"saved_w2v_models/re_model_year_{year}.model",
+        "time_informed_retrain": f"saved_w2v_models/model_year_{year}.model",
+        "no_time_informed": f"saved_w2v_models/model_single_{year}.model"
+    }
+    
+    try:
+        return Word2Vec.load(model_paths[model_type])
+    except KeyError:
+        raise ValueError(f"Invalid model type: {model_type}. Choose from 'time_informed_simple', 'time_informed_retrain', or 'no_time_informed'.")
 
-def get_method_embeddings(filtered_concept_arr: np.ndarray, year_arr: np.ndarray, embedding_dim: int = 128, load: bool = True):
+
+def get_method_embeddings(filtered_concept_arr: np.ndarray, year_arr: np.ndarray, model_type:str, embedding_dim: int = 128, load: bool = True, save=False):
     """Get method embeddings, either by loading from files or processing the data."""
     
     if load:
@@ -265,7 +276,7 @@ def get_method_embeddings(filtered_concept_arr: np.ndarray, year_arr: np.ndarray
 
         # Load models and get vectors
         for year in tqdm(unique_years, desc="Loading models and vectors"):
-            loaded_w2v = load_model_for_year(year)
+            loaded_w2v = load_model_for_year(year, model_type)
             for c in phys_concept_dict:
                 if c not in c_dict:
                     c_dict[c] = {}
@@ -310,15 +321,16 @@ def get_method_embeddings(filtered_concept_arr: np.ndarray, year_arr: np.ndarray
         c_inx_arr = np.array(c_inx_arr)
 
         # Save the arrays using memmap
-        save_memmap("saved_files/embedding_concept_arr.dat", c_inx_arr)
-        save_memmap("saved_files/embedding_vector_arr.dat", c_encoding_arr)
+        if save:
+            save_memmap("saved_files/embedding_concept_arr.dat", c_inx_arr)
+            save_memmap("saved_files/embedding_vector_arr.dat", c_encoding_arr)
 
-        # Clear the garbage collector
-        gc.collect()
+            # Clear the garbage collector
+            gc.collect()
 
-        # Load the memmap arrays
-        c_inx_arr = np.memmap("saved_files/embedding_concept_arr.dat", dtype="<U55", mode='r', shape=c_inx_arr.shape)
-        c_encoding_arr = np.memmap("saved_files/embedding_vector_arr.dat", dtype=np.float64, mode='r', shape=c_encoding_arr.shape)
+            # Load the memmap arrays
+            c_inx_arr = np.memmap("saved_files/embedding_concept_arr.dat", dtype="<U55", mode='r', shape=c_inx_arr.shape)
+            c_encoding_arr = np.memmap("saved_files/embedding_vector_arr.dat", dtype=np.float64, mode='r', shape=c_encoding_arr.shape)
 
     return c_inx_arr, c_encoding_arr
 
