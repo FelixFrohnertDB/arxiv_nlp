@@ -144,111 +144,12 @@ def get_baseline_1_embeddings(loaded_w2v: KeyedVectors, filtered_concept_arr: np
 
     return c_encoding_arr, c_inx_arr
 
-# def load_model_for_year(year):
-#     return Word2Vec.load(f"saved_models/re_model_year_{year}.model")
-
-# def get_method_embeddings(loaded_w2v: KeyedVectors, filtered_concept_arr: np.ndarray, embedding_dim: int = 128, load: bool = True):
-
-
-#     if load:
-#         c_inx_arr = np.memmap("saved_files/embedding_concept_arr.dat",shape=(10235,), dtype="<U55")
-#         c_encoding_arr = np.memmap("saved_files/embedding_vector_arr.dat",shape=(10235, 30, 128), dtype=np.float64)
-
-#     else:
-#         # Initialize dictionaries and counters
-#         c_dict = {}
-#         phys_concept_dict = {k: 1 for k in filtered_concept_arr}
-#         cnt_0, cnt_1 = 0, 0
-
-#         # Get the unique years
-#         unique_years = np.unique(year_arr)
-
-#         # Iterate over each year and load the corresponding model
-#         for year in tqdm(unique_years):
-#             loaded_w2v = load_model_for_year(year)
-
-#             # Iterate over each concept in the filtered concept dictionary
-#             for c in phys_concept_dict:
-#                 if c not in c_dict:
-#                     c_dict[c] = {}
-
-#                 # If the concept is already recorded for the current year, skip it
-#                 if year in c_dict[c]:
-#                     continue
-
-#                 try:
-#                     # Get the vector encoding for the concept
-#                     vec_enc = loaded_w2v.wv.get_vector(c)
-#                     c_dict[c][year] = vec_enc
-#                     cnt_0 += 1
-#                 except KeyError:  # Catch specific exception for missing key
-#                     cnt_1 += 1
-#                     pass
-
-#         print(f"Found {cnt_0} vectors, missed {cnt_1} vectors.")
-
-#         # Initialize lists for lengths and concept indices
-#         len_arr, len_new_arr, concept_inx_arr = [], [], []
-
-#         # Iterate over each concept to fill missing years with the first available vector
-#         for c in tqdm(phys_concept_dict):
-#             l = len(c_dict[c])
-#             len_arr.append(l)
-
-#             if l > 0:
-#                 concept_inx_arr.append(c)
-#                 success_years = sorted(c_dict[c].keys())
-#                 first_success_year = success_years[0]
-
-#                 # Backtrack and fill in the missing years with the first available vector
-#                 for year in unique_years:
-#                     if year < first_success_year:
-#                         if year not in c_dict[c]:
-#                             c_dict[c][year] = c_dict[c][first_success_year]
-#                     else:
-#                         break
-
-#             len_new_arr.append(len(c_dict[c]))
-
-#         concept_inx_arr = np.array(concept_inx_arr)
-
-#         # Display the distribution of the number of years filled for each concept
-#         print(np.unique(len_new_arr, return_counts=True))
-
-#         # Prepare the encoding array
-#         num_concepts = len(c_dict)
-#         num_years = len(unique_years)
-#         embedding_dim = 128
-
-#         c_encoding_arr = np.zeros((num_concepts, num_years, embedding_dim))
-#         c_inx_arr = []
-
-#         # Fill the encoding array with vectors for each concept and year
-#         for cnt, (concept, year_vectors) in enumerate(c_dict.items()):
-#             c_encoding_arr[cnt] = np.array([year_vectors.get(year, np.zeros(embedding_dim)) for year in unique_years])
-#             c_inx_arr.append(concept)
-
-#         c_inx_arr = np.array(c_inx_arr)
-
-        
-#         filename = 'saved_files/embedding_concept_arr.dat'
-#         memmap_array = np.memmap(filename, dtype=c_inx_arr.dtype, mode='w+', shape=c_inx_arr.shape)
-#         print("shape:",c_inx_arr.shape)
-#         memmap_array[:] = c_inx_arr
-#         memmap_array.flush()
-
-#         filename = 'saved_files/embedding_vector_arr.dat'
-#         memmap_array = np.memmap(filename, dtype=c_encoding_arr.dtype, mode='w+', shape=c_encoding_arr.shape)
-#         print("shape:",c_encoding_arr.shape)
-#         memmap_array[:] = c_encoding_arr
-#         memmap_array.flush()
 
 def load_model_for_year(year, model_type):
     """Load a Word2Vec model for a specific year based on the given type."""
     
     model_paths = {
         "time_informed_simple": f"saved_w2v_models/re_model_year_{year}.model",
-        "time_informed_retrain": f"saved_w2v_models/model_year_{year}.model",
         "no_time_informed": f"saved_w2v_models/model_single_{year}.model"
     }
     
@@ -409,27 +310,3 @@ def compute_acc(model, dataloader):
     accuracy = correct / total
 
     return accuracy
-
-    # def replace_strings_with_indices(data, concept_to_index):
-#     # Create a new dictionary to store the converted data
-#     indexed_data = {}
-    
-#     # Iterate through the outer dictionary
-#     for concept1, nested_dict in data.items():
-#         # Replace the concept1 string with its index
-#         # print(concept_to_index[concept1])
-#         index1 = concept_to_index[concept1][0]
-#         indexed_data[index1] = {}
-        
-#         # Iterate through the inner dictionary
-#         for concept2, years in nested_dict.items():
-#             # Replace the concept2 string with its index
-            
-#             index2 = concept_to_index[concept2][0]
-#             indexed_data[index1][index2] = years
-    
-#     return indexed_data
-
-
-# concept_to_indices = {concept: np.where(concept_filtered_arr == concept)[0] for concept in np.unique(concept_filtered_arr)}
-# index_co_occurrences = replace_strings_with_indices(word_co_occurrences, concept_to_indices)

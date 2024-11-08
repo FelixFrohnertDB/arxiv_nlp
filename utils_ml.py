@@ -52,8 +52,6 @@ class MLP(nn.Module):
         return out
 
 # Define the training and validation functions
-
-
 def train_one_epoch(model, train_loader, criterion, optimizer):
     model.train()
     running_loss = 0.0
