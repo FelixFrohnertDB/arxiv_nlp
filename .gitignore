@@ -13,3 +13,6 @@ arxiv_venv/
 *.pth
 *.pdf
 *checkpoint*
+xtodelete/
+figures/
+.gitignore
