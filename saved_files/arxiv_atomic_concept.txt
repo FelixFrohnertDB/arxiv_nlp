@@ -1,0 +1,7602 @@
+interference pattern
+energy difference
+diatomic molecule
+molecular orientation
+single center
+magneto optical trap
+magnetic field
+laser cooling
+optical trap
+magneto optic
+doppler cooling
+laser detuning
+optical lattice clock
+nuclear spin polarization
+optical lattice
+spin polarization
+nuclear spin
+systematic effect
+nuclear structure
+frequency shift
+optical field
+hyperfine interaction
+clock frequency
+light shift
+alkaline earth
+lattice clock
+density functional theory
+time dependent density functional theory
+density functional calculation
+strong laser field
+time dependent schroedinger equation
+kohn sham equation
+kohn sham orbitals
+time dependent density functional
+sequential double ionization
+momentum space
+momentum distribution
+laser pulse
+electron correlation
+schroedinger equation
+density function
+density functional
+helium atom
+kohn sham
+double ionization
+functional theory
+stable isotope
+separation energy
+field programmable gate array
+ultracold atomic cloud
+low phase noise
+radio frequency
+ultracold atom
+cold atom
+phase noise
+atomic cloud
+sine wave
+master clock
+helium like ion
+perturbation theory
+relativistic energy
+electron interaction
+hydrogen atom
+resonance frequency
+optical resonance
+frequency measurement
+deuterium atom
+natural resonance
+orbital angular momentum
+rotational quantum number
+angular momentum
+wave function
+excited state
+quantum number
+quasibound state
+helium nucleus
+electric dipole moment
+dipole dipole interaction
+permanent electric dipole moment
+homogeneous electric field
+ultracold rydberg gas
+permanent electric dipole
+ioffe pritchard trap
+long lived electronic state
+electric field
+analytical expression
+electronic state
+dipole moment
+rydberg atom
+electric dipole
+interparticle distance
+linear density
+effective rabi frequency
+phase shift
+rabi frequency
+closed expression
+adiabatic expansion
+mathieu function
+wave diffraction
+electron wave function
+electron correlation effect
+ground state hyperfine splitting
+ground state
+interaction effect
+hyperfine splitting
+configuration interaction
+electron wave
+qed calculation
+fine splitting
+hydrogen molecular ion
+antiprotonic helium atom
+metastable state
+molecular ion
+antiprotonic helium
+optical bloch equation
+magneto optical resonance
+elastic interaction
+bloch equation
+hyperfine transition
+resonance formation
+bose einstein condensate
+ultracold neutral atom
+ultracold atom cloud
+spatial resolution
+magnetic material
+atom chip
+bose einstein
+magnetic film
+atom cloud
+self consistent field
+fine structure
+hyperfine structure
+spectroscopic measurement
+radioactive isotope
+ultraviolet spectral region
+femtosecond frequency comb
+direct frequency comb spectroscopy
+frequency comb spectroscopy
+precision measurement
+rydberg state
+singlet state
+electronic transition
+frequency comb
+photon excitation
+harmonic generation
+magic wavelength
+intercombination transition
+laser atom interaction
+attosecond pulse generation
+ultrashort pulse
+attosecond pulse
+atom interaction
+brownian motor
+temporal symmetry
+atomic recoil
+hydrogen like ion
+electron photon interaction
+electron angular distribution
+dirac equation
+density matrix
+incident light
+photon interaction
+electron emission
+photon beam
+photon ionization
+energy transfer
+trapped ion
+activation energy
+ion trap
+buffer gas
+high precision calculation
+precision calculation
+principle quantum number
+valence electron
+lamb shift
+dynamic structure factor
+neutron scattering measurement
+matrix element
+neutron scattering
+frequency spectrum
+mixed phase
+dynamic structure
+molecular vibration
+scattering measurement
+fine structure constant
+frequency range
+fundamental constant
+structure constant
+wave frequency
+quantum information processing
+franck condon principle
+quantum information
+motional state
+raman transition
+ground motion
+quantum inf
+franck condon
+homogeneous magnetic field
+inhomogeneous magnetic field
+magnetic field configuration
+cold rydberg atom
+ultracold rydberg atom
+electronic structure
+quantum state
+hard magnet
+steady state
+trapped atom
+magnetic trap
+parametric excitation
+peak density
+energy spectrum
+pair production
+linear polarization
+circular polarization
+laser beam
+pair creation
+ground state hydrogen atom
+quantum hamiltonian
+magnetic field amplitude
+magnetic field variation
+electric field variation
+molecular beam
+physics experiment
+quantum mechanical description
+atomic wave packet
+spin echo experiment
+quantum mechanic
+wave packet
+geometric phase
+berry phase
+series expansion
+quantum mechanical
+atomic beam
+parity violating
+spin echo
+amplitude function
+coherent matter wave
+correlation function
+gravitational field
+analytical solution
+matter wave
+abcd matrix
+magnetic field dependence
+magnetic feshbach resonance
+quantum collision model
+scattering length
+accurate determination
+feshbach resonance
+field dependence
+van der waals
+van der waals interaction
+monte carlo algorithm
+black body radiation
+interacting rydberg gas
+monte carlo
+atomic resonance
+excitation laser
+ionization dynamic
+interatomic force
+penning ionization
+nucleon nucleon interaction
+neutron edm experiment
+neutron edm
+quantum master equation
+master equation
+gas phase
+ultracold gas
+rydberg excitation
+excitation scheme
+high precision study
+final value
+electron electric dipole moment
+electric dipole moment experiment
+residual magnetic field
+field quantization
+atom interferometer
+atom interferometry
+second harmonic signal
+magnetic resonance
+laser light
+semi empirical
+optical pump
+optical dipole trap
+focused laser beam
+magneto optic trap
+phase space
+dipole trap
+dielectronic recombination
+permanent magnet
+film surface
+optical lithography
+high order resonance
+general theory
+standing wave
+talbot effect
+quantum accelerator
+magneto optical trapping
+optical trapping
+laser cooled
+trapping laser
+low lying excited state
+electric dipole transition
+oscillator strength
+nuclear charge
+dipole transition
+high conversion efficiency
+wave vector
+light field
+raman scattering
+single mode
+conversion efficiency
+high harmonic generation
+high order harmonic generation
+quantum interference effect
+high order harmonic
+quantum interference
+length gauge
+electron orbit
+orbit analysis
+gauge invariance
+gauge invariant
+probability amplitude
+ionization probability
+long range interaction
+relativistic configuration interaction
+ab initio
+long range
+quadrupole moment
+associative ionization
+fourier transform spectroscopy
+fourier transform
+high energy particle
+photon absorption
+inelastic collision
+elastic collision
+multiphoton absorption
+polyatomic molecule
+orbital symmetry
+degenerate orbitals
+quantum monte carlo
+ultrashort laser pulse
+short laser pulse
+correlated quantum system
+time dependent quantum monte carlo
+quantum system
+configuration space
+probability density
+physical space
+stochastic quantization
+guidance equation
+single photon absorption
+single photon
+photon energy
+linear relation
+threshold energy
+laser frequency comb
+absolute frequency measurement
+femtosecond laser frequency comb
+structure determination
+half width
+optical clock
+femtosecond laser
+high laser intensity
+resonant absorption line
+velocity selective optical pumping
+absorption line
+absorption spectrum
+line width
+resonant laser
+ion spectrum
+absorption linewidth
+circularly polarized laser
+strong circularly polarized laser field
+electrostatic field
+static field
+rod shaped
+ultracold polar molecule
+polar molecule
+electrostatic trap
+high resolution spectroscopy
+quantum cascade laser
+emission line
+relative stability
+phase locked
+formic acid
+allan deviation
+photon spectroscopy
+phase lock
+frequency reference
+vacuum polarization
+relativistic collision
+spin orbit coupling
+ground state molecule
+transition amplitude
+oscillatory behavior
+population distribution
+resonant coupling
+ultracold molecule
+ion distribution
+harmonic spectrum
+atomic bose einstein condensate
+alkaline earth atom
+color photoassociation
+energy dependence
+dipolar interaction
+quantum unitarity
+elastic scattering
+temporal resolution
+electron scattering
+electron momentum
+infrared laser
+ultrafast imaging
+accurate retrieval
+coupled cluster theory
+electric dipole moment enhancement factor
+coupled cluster
+cluster theory
+electron wave packet
+plane wave
+intense laser field
+intense laser pulse
+photoelectron momentum distribution
+electron momentum distribution
+pulse duration
+standard quantum limit
+shot noise
+spin relaxation
+quantum limit
+alkali metal
+spin squeezing
+atomic magnetometer
+polarized atom
+branching ratio
+optical cooling
+dark resonance
+field strength
+power series
+atomic system
+resonant state
+wave scattering length
+wave scattering
+atomic unit
+photoassociation spectroscopy
+longitudinal momentum spectrum
+ion atom interaction
+momentum transfer
+momentum spectrum
+electron spin relaxation
+saturated vapor pressure
+spin exchange relaxation free
+electron spin relaxation rate
+electron spin
+resonance width
+noise measurement
+vapor pressure
+saturated vapor
+attosecond time scale
+velocity map imaging
+extreme ultraviolet
+imaging spectrometer
+scattering technique
+femtosecond time scale
+kinematically complete experiment
+fine structure constant variation
+resonance absorption line
+fe ii absorption line
+cosmological distance
+transition frequency
+cosmological epoch
+resonance absorption
+cell wall
+laser ablation
+vapor density
+excited atomic state
+matrix eigenvalue problem
+preserving quantum coherence
+wave mixing effect
+dispersion relation
+quantum coherence
+eigenvalue problem
+dark state
+proton electron mass ratio
+mass ratio
+atomic clock
+electron mass
+stark shift
+vibrational energy
+physical constant
+vibrational transition
+excited vibrational state
+excited rotational state
+storage ring
+dissociative recombination
+effective range theory
+schrodinger equation
+range expansion
+molecular target
+shape resonance
+atomic core
+tightly focused beam
+hermite gaussian beam
+spatial distribution
+optical image
+gaussian beam
+femtosecond pulse
+hermite gauss
+isotropic harmonic trap
+metastable helium atom
+aspect ratio
+spherically symmetric
+harmonic trap
+axially symmetric
+mediated interaction
+optical frequency standard
+electric dipole matrix element
+blackbody radiation
+frequency standard
+finite set
+double slit interference
+double slit interference pattern
+magnetic dipole
+aharonov bohm
+semiclassical analysis
+double slit
+single slit
+magnetic dip
+stimulated raman adiabatic passage
+poincare map
+trapped boson
+number squeezing
+bichromatic optical dipole trap
+sympathetic cooling
+hybrid trap
+spectral line
+absolute scale
+proton mass
+ultracold fermi gas
+periodic orbit theory
+quantum fluctuation
+periodic orbit
+particle number
+quantum chaos
+chaotic system
+fermi gas
+ions trapped
+orbit theory
+monte carlo simulation
+quadrupole magnetic field
+evaporation efficiency
+quadrupole magnet
+universal scaling behavior
+electron impact excitation
+relativistic perturbation theory
+principal quantum number
+coupled channel calculation
+triplet scattering length
+ion channel
+open channel
+time dependent modulation
+harmonic frequency
+floquet analysis
+isotope shift
+ion source
+laser spectroscopy
+pulsed laser
+saturation spectroscopy
+vibrational quantum number
+finite number
+identical particle
+vibrational spectrum
+vibrational quantum
+earths magnetic field
+magneto optical technique
+electronic angular momentum
+systematic error
+resonant interaction
+zeeman effect
+geomagnetic field
+resonance splitting
+matter wave interferometer
+squeezed quantum state
+light scattering
+guided wave
+sr optical lattice clock
+phase transformation
+pulse shaping
+applied magnetic field
+coherent population trapping
+ion trapping
+confinement effect
+relativistic calculation
+electric quadrupole
+correlated calculation
+carrier envelope phase
+molecular orbital tomography
+molecular orbital
+tomographic imaging
+basis function
+atomic structure
+basis set
+hartree fock
+notre dame
+complex quantum system
+robust population transfer
+population transfer
+single frequency
+coherent excitation
+chirped pulse
+frequency chirp
+close coupling
+electronic structure calculation
+asymptotic behavior
+pseudopotential method
+relativistic energy shift
+electric quadrupole moment
+cluster analysis
+inner core
+bohr radius
+elementary charge
+van der waals surface
+reflection spectrum
+line broadening
+calcium fluoride
+reflection spectroscopy
+reflection signal
+decay width
+zero energy
+coupling constant
+elementary particle
+closed shell
+quark interaction
+pseudo tensor
+interaction technique
+matter wave interference
+optical standing wave
+matter wave coherence
+diffraction grating
+transmission function
+wave interference
+function representation
+nuclear magnetic moment
+fully relativistic theory
+magnetic moment
+nuclear recoil
+high precision measurement
+hyperfine coupling constant
+acousto optic modulator
+high resolution laser spectroscopy
+hyperfine coupling
+acousto optic
+heated vapor cell
+electron nucleus interaction
+coulomb interaction
+g factor measurement
+ground state electron
+spin state
+spin flip
+atomic transition
+wave field
+quantum jump
+laser excitation
+electron kinetic energy
+kinetic energy
+atom surface interaction
+thermal infrared
+thermal emissivity
+free particle
+selection rule
+decay product
+correlation diagram
+atom scattering
+semiclassical theory
+fourier transformation
+channel number
+photo ionisation
+ionisation threshold
+atomic gas
+molecular form
+resonant pair
+ro vibrational spectrum
+binding energy
+radiative correction
+atomic mass
+muon catalyzed fusion
+deuterium gas
+transition matrix element
+atomic ground state
+high angular momentum state
+optical pumping scheme
+transition matrix
+rabi oscillation
+beam shaping
+dipole blockade
+autoionizing state
+atom number
+atom laser
+laser mode
+precision molecular spectroscopy
+molecular spectroscopy
+physical observation
+fundamental physical constant
+particle physicist
+logical interpretation
+charge distribution
+heavy ion
+nuclear deformation
+standard model
+atom trap
+focal length
+magnetic lens
+magnetic profile
+rf antenna
+field value
+dimensionless quantity
+induced dipole
+polar system
+double electron capture
+wave model
+doppler effect
+fiber laser
+electron energy distribution
+electron atom scattering
+energy distribution
+negative ion
+photoelectron energy
+bose einstein condensation
+zero crossing
+target distribution
+fractional error
+quantum information science
+linear paul trap
+paul trap
+micro electromechanical system
+analytical model
+mechanical system
+analytic model
+interference fringe
+hypergeometric function
+muonic atom
+electron system
+open shell
+electronic wave packet
+quantum model
+electronic wave function
+momentum matrix element
+tomographic reconstruction
+resonant dipole dipole interaction
+muonic hydrogen atom
+phonon scattering
+muonic hydrogen
+debye model
+solid hydrogen
+electron ionization
+magnetic microtraps
+x ray source
+hydrogen like atom
+short intense laser pulse
+dressed state
+long wave
+atomic interferometer
+acceleration signal
+atomic gravimeter
+atom gravimeter
+interferometer signal
+long term stability
+newtonian gravitational constant
+laser cooled rubidium atom
+cold atom interferometry
+gravitational constant
+newtonian gravitation
+molecular resonance
+resonance lineshape
+laser induced coupling
+hydrogen molecule
+born oppenheimer
+induced coupling
+ultra cold atom
+persistent current
+optical modulator
+electric field strength
+dynamic behavior
+dual form
+switching frequency
+trajectory calculation
+noble gas
+auger electron
+antiprotonic atom
+superconducting atom chip
+superconducting wire
+superconducting surface
+mean square charge radius
+charge radius
+mean square
+laser cooled rb atom
+radiative lifetime
+micro channel plate
+micro channel
+gas discharge
+magnetic coil
+precise experiment
+quadrupole polarizabilities
+lifetime value
+quadrupole polarizability
+nuclear magnetization distribution
+magnetization distribution
+nuclear magnetization
+free space
+active medium
+attosecond light pulse
+single pair
+optical clock transition
+photon resonance
+inelastic collision rate
+elastic collision rate
+magnetic sublevels
+precision spectroscopy
+hydrogenic atom
+atomic cooling
+spectral line broadening
+sum rule
+peak intensity
+spectral component
+matrix equation
+saturation intensity
+intensity redistribution
+single wall carbon nanotube
+carbon nanotube array
+computer simulation
+carbon nanotube
+dynamic model
+dielectric function
+dynamic response
+transverse plane
+polarization effect
+dielectric medium
+nanotube array
+pulsed atom laser
+multiphoton ionization
+wave bound state
+repulsive coulomb interaction
+electron collision
+molecular anion
+focused gaussian beam
+maxwells demon
+cooling technique
+cooling atom
+magnetic trapping
+trapped molecule
+atomic nitrogen
+negative hydrogen ion
+charge transfer reaction
+comparative study
+charge transfer
+double peak
+hydrogen ion
+radiation pressure
+wave length
+detonation wave
+deuterium tritium
+degenerate fermi gas
+atom molecule collision
+ultracold atom molecule collision
+spin orbit precession
+shaped laser pulse
+spectral phase
+quantum resonance
+magnetic quadrupole
+vibrational feshbach resonance
+exponential decay
+vibrational mode
+vibrational excitation
+lifetime measurement
+vibrational relaxation
+relative strength
+hanle effect
+doppler broadening
+doppler width
+spectral amplitude
+average kinetic energy
+gaussian laser beam
+strong electromagnetic field
+electromagnetic field
+internal atomic state
+resonant optical lattice
+sisyphus cooling
+te mode
+third order nonlinearity
+spectral filtering
+field gradient
+wave form
+carrier wave
+optical carrier
+power law
+anti proton
+kicked rotor
+rational fraction
+recoil frequency
+gravitational force
+magnetic force
+nuclear charge number
+binding strength
+charge number
+free loop
+molecular structure
+inverse square
+molecular rotation
+rotational constant
+rotational splitting
+collisional energy
+heavy ion collision
+internal conversion
+nuclear state
+nuclear excitation
+resonance strength
+nuclear magnetic resonance
+spin spin coupling
+spin spin coupling constant
+relativistic effect
+atomic number
+spin coupling
+ultrafast timescale
+orbital reconstruction
+tomographic image
+electric field gradient
+nonlinear dynamic
+neutral particle
+perturbation method
+analytical technique
+transverse oscillation
+transverse speed
+quantum dot laser
+molecular hydrogen ion
+quantum dot
+molecular hydrogen
+spectral range
+diode laser
+narrow linewidth
+frequency doubling
+enhancement cavity
+fluctuation dissipation theorem
+spin angular momentum
+mean square fluctuation
+equilibrium density matrix
+expectation value
+thermal bath
+uncertainty principle
+ensemble average
+scattering theory
+ring theory
+rare gas
+tunneling ionization
+ponderomotive energy
+electron self energy
+fine structure interval
+high precision numerical calculation
+self energy
+expansion coefficient
+perturbative approach
+nonperturbative approach
+cosmological time scale
+frequency comb laser
+calcium ion
+single trapped ion
+relative decay rate
+frequency doubled
+electron shelving
+magnetic octupole moment
+nuclear magnetic octupole moment
+single trapped barium ion
+octupole moment
+optical frequency comb
+atomic transition frequency
+sr lattice clock
+fractional uncertainty
+hydrogen maser
+clock signal
+atomic physics experiment
+angular momentum coupling
+nuclear angular momentum
+coupling strength
+atomic wavefunction
+silicon wafer
+coupled cluster calculation
+relativistic coupled cluster calculation
+convergence pattern
+bose gas
+oscillation frequency
+doppler shift
+zeeman splitting
+internal transition
+translational energy
+effective electric field
+electron electric dipole moment search
+electric dipole moment search
+mott insulator transition
+mott insulator
+phase behavior
+insulator transition
+atomic calculation
+electron structure
+atomic clock experiment
+nuclear transition
+fine structure splitting
+complementary error function
+refractive index
+error function
+absorption profile
+rms error
+open transition
+scattering state
+alkaline earth element
+isotope shift measurement
+symmetry breaking
+symmetry break
+nanometric spatial resolution
+transmission spectrum
+quantitative study
+resonant wavelength
+electro optic modulator
+laser frequency stabilization
+modulation transfer spectroscopy
+peak amplitude
+electro optic
+clear line
+long life
+homogenous magnetic field
+magnetic dipole transition
+nuclear mass
+frequency dependence
+inertial sensor
+linear range
+vibration isolation
+light emitting diode
+heavy element
+feynman diagram
+superheavy element
+quantum electrodynamic
+atom light interaction
+mach zehnder
+precision sensing
+hyperfine structure level
+nuclear model
+ar model
+carbon atom
+ion beam
+nanotube length
+electric quadrupole transition
+clock transition frequency
+quadrupole transition
+atomic fountain
+debye waller factor
+coherent scattering
+grazing incidence
+incoherent scattering
+surface scattering
+coherent diffraction
+high temperature superconducting
+superconducting loop
+molecular model
+adiabatic transition
+atomic trap
+angular quantum number
+galerkin method
+spurious solution
+light pulse atom interferometry
+equivalence principle
+inertial navigation
+cold plasma
+ultracold plasma
+excited molecular state
+mean field
+interaction energy
+scattering channel
+light frequency
+quantum scattering calculation
+channel wave function
+quantum theory
+chemical reaction
+spherical coordinate
+laser radiation
+scattering resonance
+quantum scattering
+fine structure constant alpha
+configuration interaction calculation
+isotope shift calculation
+chemical evolution
+transition metal
+gas cloud
+isotope abundance
+internal energy
+spontaneous emission
+frequency band
+detected molecule
+ion pump
+vibrational cooling
+fully quantum mechanical
+quantum mechanical study
+atom ion collision
+charge exchange rate
+charge exchange
+resonance effect
+quantum defect
+ultracold system
+polarized laser pulse
+scattering mechanism
+atomic model
+spatial grid
+de broglie wavelength
+de broglie wave
+thermal energy
+diffraction pattern
+quantum reflection
+grazing angle
+structured surface
+electron impact ionization
+transverse momentum component
+photon decay rate
+neutral hydrogen
+photon decay
+virtual state
+atom field interaction
+atom field system
+electromagnetic radiation
+population inversion
+photon correlation
+field system
+unified field
+number density
+radiation exposure
+gamma emission
+spectral deformation
+citation number
+atomic excited state
+photon absorption spectroscopy
+absorption spectroscopy
+triatomic molecule
+rydberg system
+free electron laser
+strong field ionization
+free electron
+field ionization
+branching fraction
+gaussian basis set
+finite field
+quantum chemistry
+triplet state
+perpendicular component
+equilibrium distance
+dipole polarizability
+quantum chem
+quantum chemist
+crossed optical dipole trap
+absorption imaging
+photo ionization
+laser trap
+laser trapping
+x ray free electron laser
+pair production rate
+x ray laser
+relativistic speed
+diffusion coefficient
+nuclear reaction
+fluorescence signal
+li ion
+fusion coefficient
+shell structure
+atomic shell
+exchange operator
+atomic structure calculation
+ladder diagram
+ab initio calculation
+ac stark effect
+atomic parity violation experiment
+parity violation experiment
+parity violation
+stark effect
+atomic theory
+dynamic polarizability
+high precision experiment
+atomic hydrogen
+fourth power
+precision experiment
+quantum gas
+schematic diagram
+ortho positronium
+quantum optical effect
+optical effect
+weighted sum
+deep link
+measured rate coefficient
+atomic polarizability
+solar system
+line profile
+electron configuration
+quadrupole mass spectrometer
+ionization mass spectrometry
+ion mass spectrometer
+mass spectrometry
+pole mass
+mass spectrometer
+laser diode
+trace element
+excited state lifetime
+voigt profile
+gross pitaevskii equation
+band structure
+structure model
+period lattice
+stimulated raman transition
+ant system
+bragg peak
+longitudinal profile
+ultracold collision
+laser induced fluorescence
+laser molecule interaction
+coherent laser field
+quantitative analysis
+stationary solution
+light polarization
+white light
+lambda system
+analytical formula
+optimum distance
+fine structure transition
+ultracold rubidium atom
+scaling law
+nanosecond laser pulse
+carbon carbon bond
+coulomb explosion imaging
+intense femtosecond pulse
+coulomb explosion
+phenyl ring
+induced motion
+variant form
+rydberg constant
+bloch oscillation
+relative uncertainty
+planck constant
+fine structure interaction
+rule base
+spin precession frequency
+spin dependent force
+length scale
+gravitational interaction
+lorentz symmetry
+precession frequency
+vector particle
+spontaneous pair creation
+matrix representation
+negative energy
+coulomb barrier
+energy state
+vacuum decay
+qed vacuum
+cp violation
+charge conjugation
+electric susceptibility
+excited electronic state
+ultracold cesium atom
+excited electron
+collision induced dissociation
+adiabatic hyperspherical representation
+radial matrix element
+non uniform electric field
+linear stark effect
+inversely proportional
+spherical symmetry
+low energy nuclear reaction
+energy production
+reaction product
+fusion reaction
+nuclear radiation
+cold fusion
+ion crystal
+pionic hydrogen
+statistical population
+ade model
+physical field
+zeeman shift
+photon cooling
+finite differences method
+time dependent wavefunction
+finite difference
+matrix theory
+grid method
+accurate ab initio calculation
+magneto electric effect
+magnetic susceptibility
+magnetic flux
+solid state
+magnetic hysteresis
+induced magnetization
+chemical formula
+demagnetizing field
+magnetizing field
+quantum dynamics calculation
+excited vibrational level
+interstellar medium
+energy resolution
+energy surface
+quantum calculation
+integral equation
+fredholm determinant
+contour integral
+velocity measurement
+trion formation
+strong magnetic field
+closed form
+analytic expression
+autocorrelation function
+wigner transform
+frequency stability
+microwave atomic clock
+atomic clock transition
+direct monte carlo simulation
+trapped atom interferometer
+degenerate gas
+collisional decoherence
+cold atom experiment
+genetic algorithm
+evolutionary algorithm
+stochastic optimization
+transverse momentum transfer
+coulomb law
+ultra high vacuum
+ultra high vacuum condition
+long term stable
+continuous wave
+organic compound
+linear ion trap
+high order harmonic emission
+optical molasses
+rovibrational state
+hyperfine sublevels
+computer code
+outer shell
+dirac matrix
+electron shell
+solid state detector
+gas jet
+x ray emission
+infrared laser pulse
+intense infrared laser pulse
+focal volume
+bench mark
+elliptical polarization
+laser matter interaction
+intense laser matter interaction
+quantum simulation
+free state
+spherical shell
+confinement resonance
+optical switching
+optical network
+optical switch
+faraday effect
+communication bandwidth
+spectral sensitivity
+group index
+nanosecond timescale
+giant resonance
+recursion relation
+analytic integration
+screening effect
+proton scattering
+ode model
+polarized laser beam
+energy conservation
+magnetic energy
+beam splitter
+transverse velocity
+bragg scattering
+bragg diffraction
+atom optic
+spectral signature
+time correlated single photon counting
+single photon counting
+photon counting
+photon count
+counting method
+quantum mechanical calculation
+zero energy resonance
+ultracold mixture
+efimov trimer
+trimer state
+narrow feshbach resonance
+molecular bound state
+dipole transition moment
+dissociation energy
+transition moment
+chemical imaging
+scattering amplitude
+multiple scattering
+bulk density
+areal density
+nonlinear optic
+knudsen number
+atom laser beam
+coherent atom optic
+optical beam
+ramsey interferometry
+raman laser
+interferometric phase
+evaporative cooling
+elliptical orbit
+boltzmann constant
+quantum optics experiment
+ladder system
+spin forbidden
+rotationally excited state
+rotational frequency
+lithium hydride
+supersonic expansion
+semiconductor laser
+avoided crossing
+vibrational dynamic
+angular motion
+bessel function
+feshbach molecule
+colliding atom
+lowest energy state
+vacuum state
+dielectric constant
+fifth power
+electron state
+electric field induced
+electric field induced change
+systematic experiment
+spectroscopy experiment
+atomic polarization
+atomic spectroscopy
+quantum mechanical state
+electron spectroscopy
+inverse proportion
+atomic coherence
+population oscillation
+fundamental law
+photon momentum
+closed space
+enclosed space
+coulomb repulsion
+matrix method
+free hamiltonian
+electron drift
+quantum electrodynamics effect
+spectroscopic determination
+printed circuit board
+penning ion trap
+penning trap
+round trip
+circuit board
+caesium fountain clock
+microwave oscillator
+ground state wave function
+pre exponential factor
+state wave function
+lithium atom
+energy matrix
+quasi static
+atom chip experiment
+source code
+linear combination
+explicit formula
+recurrence formula
+symbolic algebra
+optical atomic magnetometer
+characteristic function
+zero field
+functional group
+optical detection
+scalar coupling
+adiabatic following
+johnson nyquist noise
+magnetically trapped atom
+nyquist noise
+precision frequency measurement
+precise measurement
+pulse sequence
+gravitational acceleration
+near infrared laser
+near infrared laser pulse
+rotational dynamic
+ultra violet
+ion molecule reaction
+radiofrequency ion trap
+heating mechanism
+nonequilibrium green function
+green function
+blue shift
+column density distribution
+column density
+quantum defect theory
+magnetically tunable feshbach resonance
+wave feshbach resonance
+energy dependent scattering
+quantized energy level
+transition state
+quantum spectrum
+quantized energy
+dual species magneto optical trap
+high resolution spectroscopic study
+molecular excited state
+high resolution spectroscopic
+point like particle
+cold atom trap
+atom trapping
+decay mode
+silicon detector
+radioactive source
+semiconductor detector
+endohedral fullerene
+electric dipole polarizabilities
+inert gas
+fisher information measure
+relativistic hydrogen atom
+shannon entropy
+fisher information
+self adjoint
+momentum operator
+momentum density
+relativistic momentum
+momentum variance
+ionization mechanism
+hartree fock calculation
+complete active space
+calculated electric field gradient
+active space
+kinetic energy distribution
+photon absorption probability
+uv photon
+absorption probability
+phase delay
+beam diameter
+doppler profile
+power law distribution
+power law tail
+distribution function
+maxwellian distribution
+tsallis distribution
+spatial light modulator
+liquid crystal spatial light modulator
+liquid crystal
+rotational cooling
+gaussian wave packet
+time dependent variational
+harmonic oscillator
+coordinate space
+variational computation
+wave packet propagation
+time autocorrelation function
+variational principle
+frequency analysis
+absorption coefficient
+central field
+induced absorption
+quark mass
+nuclear radius
+elliptically polarized light
+resonant laser beam
+efficient optical pumping
+polarized light
+atomic spin
+optical density
+optical rotation
+forced evaporative cooling
+trap stiffness
+scattering wave function
+pi state
+intermolecular coulombic decay
+particle system
+binary interaction
+atomic collision
+secondary ionization
+density matrix theory
+relativistic equation
+radiative recombination
+ultracold molecular gas
+resonant effect
+resonant feature
+trimer formation
+hartree fock theory
+core valence electron correlation
+ce phase
+single beam optical dipole trap
+semi analytic formula
+analytic formula
+analytic form
+semi analytic
+low energy excitation
+adaptive finite element
+stationary state
+finite element
+laser experiment
+magnetic dipole moment
+dipole moment operator
+tensor operator
+excited state atom
+nuclear magnetic dipole
+emission spectrum
+photon emission
+resonant transition
+linear stability analysis
+linear stability
+bloch wave
+power curve
+laser induced fluorescence spectroscopy
+mass shift
+fluorescence spectroscopy
+transition probability
+uncertainty budget
+tensor polarizability
+pump probe spectroscopy
+inter atomic distance
+pair correlation
+nodal structure
+stationary wave
+air density
+probe spectroscopy
+forbidden transition
+inertial force
+diffraction technique
+edge effect
+silicon nitride
+metal coating
+lowest rovibrational level
+perturbative calculation
+resonance profile
+unstable isotope
+proton magnetic moment
+antiproton magnetic moment
+nuclear magneton
+ultracold quantum gas
+cold quantum gas
+photon source
+chip technology
+ultra low temperature
+optical feshbach resonance
+photoassociation spectrum
+exact ground state
+ground state density
+physical system
+electron spectrum
+full range
+variational wave function
+relativistic ab initio calculation
+polarizability tensor
+lithium isotope
+isotopic mass
+red detuned laser beam
+quantum manipulation
+vertical array
+optical frequency reference
+crystal lattice
+effective magnetic field
+charged particle
+vortex lattice
+failure mode
+nyquist frequency
+coherent state
+thermal equilibrium
+hubbard model
+thermal fluctuation
+equilibrium state
+josephson junction
+relative phase
+quantum noise
+equilibrium ensemble
+auger decay
+attosecond duration
+quantum computation
+mental status
+quantum gas experiment
+mirror system
+whispering gallery mode
+electron paramagnetic resonance
+high q whispering gallery mode
+traveling wave
+whispering gallery
+paramagnetic resonance
+single attosecond pulse
+laser dressed atom
+uv light
+inner shell
+optical laser pulse
+elliptically polarized laser pulse
+elliptically polarized laser
+optical laser
+variational method
+vacuum fluctuation
+image charge
+electron density
+resonance state
+quantum information protocol
+ultracold fermionic atom
+mean field shift
+rabi flopping
+resonant dynamic
+photon atom interaction
+resonance structure
+absolute norm
+discrete variable
+single shot
+finite nuclear size effect
+exotic atom
+parity violation effect
+parity violating amplitude
+neutron skin
+anapole moment
+spin relaxation time
+long spin relaxation time
+cell surface
+electromagnetic plane wave
+linearly polarized wave
+lorentz force
+free charge
+tunneling mechanism
+electric field sensitivity
+phase space structure
+classical phase space structure
+quantum evolution
+space structure
+microwave electric field
+adiabatic evolution
+destabilizing effect
+quantum stabilization
+virtual photon
+coulomb gauge
+invariant set
+electron spin resonance
+electron spin resonance experiment
+spin resonance
+resonant light
+quadrupole trap
+rubidium bose einstein condensate
+single atom detection
+dynamic range
+optical system
+imaging system
+optical component
+ccd camera
+vacuum system
+object space
+atom detection
+velocity changing collision
+gas pressure
+doppler limit
+statistical error
+cpt invariance
+apparent density
+inner shell ionization
+spin current
+dirac theory
+propagation vector
+ion current
+sagnac interferometer
+ground state coherence
+dense cloud
+cooling efficiency
+ultracold cloud
+odd parity
+bose einstein statistic
+field induced transition
+magnetic field induced transition
+landau yang theorem
+periodic optical lattice
+molecular beam experiment
+integer multiple
+trapping phenomenon
+energy scale
+zero detuning
+ring shaped trap
+ring shaped
+electron ion scattering
+semiclassical model
+quantum electrodynamic effect
+spin orbit interaction
+cpt theorem
+correlation energy
+light source
+vacuum chamber
+static polarizability
+differential decay rate
+magnetic field tuning
+large spectral shift
+spectral shift
+magneto optical rotation
+induced polarization
+fluorescence measurement
+full width
+electric quadrupole interaction
+spatial mismatch
+momentum representation
+linear stark shift
+electron cloud
+basis set expansion
+spin relaxation mechanism
+electron beam
+nearest neighbor distance
+interaction hamiltonian
+non destructive detection
+clock stability
+dick effect
+quantum interference pattern
+azimuthal angle
+quark mixing matrix
+direct mass measurement
+mass measurement
+quark mixing
+magnetic confinement
+electronically excited state
+sub doppler cooling
+optical force
+cooling laser
+time dependent photoionization
+equilibrium greens function
+greens function
+oscillating electric field
+resonant energy transfer
+x ray spectrum
+electron cyclotron resonance
+electron cyclotron resonance ion source
+inner shell excitation
+cyclotron resonance
+stable excited state
+regge pole
+anti correlation
+anti parallel
+quantum electrodynamic correction
+gauge transformation
+saturated absorption spectroscopy
+optical spectrum
+magnetic dipole coupling
+measured isotope shift
+sagnac effect
+magnetic waveguide
+magnetic wave
+orbit period
+inhomogeneous field configuration
+hydrogen production
+anti matter
+narrow band
+state population
+millimetre wave
+stationary phase
+standard treatment
+coulomb force
+weak equivalence principle
+bayesian statistic
+free fall
+weak equivalence
+interferometric measurement
+electromagnetically induced transparency
+enhanced kerr nonlinearity
+kerr nonlinearity
+heterodyne detection
+nonlinear susceptibility
+linear susceptibility
+induced transparency
+ab initio theory
+porous medium
+diffusion constant
+light intensity
+atomic diffusion
+pore geometry
+k shell ionization
+magnetic ordering temperature
+ferroelectric hysteresis loop
+magnetic ordering
+hysteresis loop
+ferroelectric hysteresis
+free falling
+metastable ground state
+oh radical
+gravitational wave
+quantum interferometer
+symmetric top
+ultra cold gas
+exact quantum evolution
+poissonian distribution
+rubidium vapor cell
+blue light
+coherent light
+phase matching
+beam power
+light generation
+photon stimulated desorption
+gas density
+fluorescence detection
+quantum state transfer
+chirped laser pulse
+photon correlation measurement
+crystalline structure
+state transfer
+crystalline state
+correlation measurement
+photonic state
+ring laser
+power spectrum
+atom ensemble
+accurate energy measurement
+bragg spectroscopy
+angle resolved photoelectron spectroscopy
+photoelectron spectroscopy
+bell shaped curve
+road map
+bell shaped
+momentum conservation law
+conservation law
+energy momentum
+momentum conservation
+rest mass
+em field
+hamilton function
+proton charge radius
+field theory
+standard theory
+ms star
+em radiation
+ns state
+foldy wouthuysen transformation
+self interaction
+red cell
+nonlinear spectroscopy
+measured rate constant
+defect model
+spin exchange optical pumping
+spin transfer
+quantum light pulse
+faraday rotation
+quantum light
+polarization rotation
+light wave
+single particle resonance
+strong van der waals interaction
+spectral feature
+particle correlation
+natural linewidth
+particle resonance
+interparticle correlation
+static electric field
+closed orbit
+anomalous magnetic moment
+antiproton annihilation
+phase difference
+modulation function
+full configuration interaction
+probability distribution
+sensitivity analysis
+weak interaction
+atomic quantum gas
+superposition state
+polarization plane
+state detection
+precision magnetometry
+optical coherent control
+field reversal
+least squares method
+linear least square
+nonlinear least squares method
+linear least squares method
+interference filter
+adiabatic population transfer
+modulation amplitude
+inhomogeneous electric field
+electric field vector
+electric field magnitude
+field magnitude
+landau zener formula
+landau zener
+electric dipole polarizability
+higher precision measurement
+mach zehnder atom interferometer
+ratio measurement
+time dependent perturbation theory
+quantum decay rate
+photon transition rate
+quantum decay
+excited singlet state
+er model
+helium like atom
+driving field intensity
+field intensity
+ion detection
+proton spin
+self excitation
+feedback cooling
+sideband cooling
+self excited
+long coherence time
+trapped electron
+coupled qubits
+electron affinity
+correlation model
+zeeman slower
+angular momentum quantum number
+virtual intermediate state
+doppler spectroscopy
+strong laser beam
+relativistic electron
+optical setup
+laser acceleration
+spectroscopic probe
+gamma ray
+isotope effect
+harmonic response
+quantization axis
+circularly polarized light
+interference experiment
+attosecond timescale
+gravity field
+resonance broadening
+quantum mechanical phase
+geometrical phase
+rotation measurement
+rare earth
+thermal excitation
+isotopic chain
+semi analytical expression
+resonant laser light
+laser induced heating
+detection limit
+coulomb crystal
+integrating sphere
+helmholtz coil
+streak camera
+deep core
+attosecond streaking
+fermi golden rule
+contact interaction
+golden rule
+charge dipole interaction
+entangled state
+chiral molecule
+rydberg molecule
+harmonic oscillator state
+confinement length scale
+channel system
+oscillator state
+finite thickness
+thermal vibration
+fermionic molecule
+nuclear clock
+rotating magnetic field
+magnetic interaction
+linear polarisation
+circular polarisation
+superconducting thin film
+ultra cold quantum gas
+thin film
+micro structure
+transfer efficiency
+warm dense matter
+dense matter
+electron excitation
+electron transition
+gravity measurement
+coherent superposition
+quantum beat
+ionization channel
+femtosecond laser pulse
+circularly polarized laser pulse
+dual system
+soft photon
+electron charge
+resonance wave function
+area preserving map
+phase portrait
+product state
+chemically reactive
+state selective detection
+high precision spectroscopy
+spectroscopic experiment
+rydberg transition
+newtons cradle
+ultrahigh vacuum
+phase coherence
+ionization energy
+phase detector
+low energy collision
+dirac wave function
+atomic orbital
+atomic orbit
+angular momentum theory
+particle matrix element
+symmetric group
+coupling coefficient
+recoupling coefficient
+moderate laser power
+core hole state
+ab initio prediction
+electron electron correlation
+pump probe experiment
+electronic correlation
+transverse spin relaxation
+transverse spin relaxation time
+quantum memory
+inner wall
+dynamical structure factor
+lippmann schwinger equation
+lippmann schwinger
+heteronuclear molecule
+surface roughness
+rough surface
+parallel component
+reflection probability
+lindblad equation
+red light
+laser frequency noise
+strontium clock transition
+transportable optical clock
+thermal noise
+laser stabilization
+inelastic scattering
+electron positron pair production
+positron pair production
+positron spectrum
+huygens fresnel principle
+spherical wave
+optical atomic clock
+emitted radiation
+neutral atom qubits
+beam steering
+ring system
+ultracold alkali metal atom
+probability density distribution
+relative phase shift
+cold atom interferometer
+interatomic interaction
+polarization sensitive detector
+ion correlation
+probing light
+intense short laser pulse
+vibronic spectrum
+spin exchange interaction
+spin polarized gas
+magnetic relaxation rate
+exchange interaction
+magnetic relaxation
+accurate calibration
+nitrogen gas
+polarized gas
+noise spectral density
+atom interferometry experiment
+precision atom interferometry
+spectral density
+time frequency analysis
+barrier ionization
+van der waals force
+casimir effect
+optimal control theory
+ultracold krb molecule
+highest occupied molecular orbital
+dynamic motion
+dipole operator
+laser induced transition
+helium gas
+vibrational distribution
+atomic line
+erbium doped fiber laser
+differential light shift
+optical cavity
+time resolved measurement
+molecular ionization
+symplectic map
+field effect
+radiation source
+basis vector
+ls coupling
+transition metal atom
+positron annihilation
+electron volt
+magnetic field perpendicular
+optical frequency measurement
+motional stark effect
+transverse magnetic
+frequency splitting
+single trapped atom
+ch star
+threshold ionization spectrum
+mid infrared
+contrast ratio
+nature phys
+ionization spectrum
+fokker planck equation
+vlasov fokker planck equation
+differential equation
+fokker planck
+ensemble model
+optically thick
+circular dichroism
+transition dipole moment
+coupling matrix element
+multireference configuration interaction
+ultracold rb atom
+spin orbit coupling matrix element
+linear response
+transition dipole
+nonadiabatic coupling
+diabatic coupling
+permanent dipole moment
+stable periodic orbit
+chaotic motion
+characteristic length
+inhomogeneous broadening
+surface patch
+homogeneous broadening
+ground state cooling
+laser cooled ion
+energy gap
+parametric resonance
+translational motion
+parametric modulation
+coherent population trapping resonance
+rayleigh scattering
+optical sensor
+lorentzian structure
+electron beam ion trap
+lyman series
+trapped molecular ion
+diatomic molecular ion
+density matrix formalism
+qualitative analysis
+relative error
+calculated spectrum
+electron correlation energy
+restricted hartree fock
+radiation trapping
+distributed memory
+electric quadrupole shift
+fractional frequency shift
+laser cooled atom
+ultracold ground state molecule
+quasi free
+axial anomaly
+closed form solution
+back scattering
+back scatter
+coupled cluster wave function
+fock space
+binding energy calculation
+intramolecular vibrational energy redistribution
+cold trapped atom
+cold trap
+intense femtosecond laser pulse
+prolate spheroidal coordinate
+intense laser radiation
+lanczos method
+prolate spheroid
+scalable quantum computer
+quantum computer
+quantum non demolition
+spin measurement
+polarization transfer
+sensitive magnetometry
+bound bound transition
+carrier frequency
+absorption image
+ion image
+simulated annealing algorithm
+spatial dimension
+annealing algorithm
+tensor polarizabilities
+spectral lineshape
+microscopic quantum system
+vertical optical lattice
+gravitational redshift
+amplitude modulation
+absolute gravimeter
+measured signal
+coherence transfer
+cascade transition
+measured time delay
+attosecond xuv pulse
+photoelectron wave packet
+dipole transition matrix element
+quantum phase
+atomic energy level
+quantum bound system
+atomic energy
+incident angle
+particle detection
+wire chamber
+trace metal
+semiconductor wafer
+r parity violation
+laser absorption
+energy band gap
+band gap
+energy band
+rutherford backscattering
+isomeric transition
+optical dipole trap formed
+particle beam
+trapped atomic ion
+partial wave representation
+doublet state
+dipolar gas
+dipole resonance
+magnetic quantum number
+phys rev lett
+phys rev
+hydrogen lamb shift
+resolved sideband cooling
+larmor frequency
+unstable manifold
+stable manifold
+hamiltonian chaos
+atomic rydberg state
+ion transport
+excitation transfer
+dipole excitation
+excitation transport
+conical intersection
+quantum correlation
+polarization entanglement
+opening angle
+cold atomic gas
+cost effective
+quantum degeneracy
+variable ratio
+anisotropic hyperfine interaction
+molecular interaction
+convergent close coupling
+timing analysis
+energy derivative
+electric field frequency
+cell geometry
+cosine transform
+sine transform
+rotational transition
+mm wave
+resonant peak
+ultrafast dynamic
+dynamic imaging
+carbon dioxide
+electronic configuration
+scaling function
+variational problem
+harmonic trapping
+intense x ray pulse
+resonant decay
+magnetic field line
+field line
+magnetic shield
+stabilization system
+continuous wave laser
+optical pulse shaping
+rotational diffusion
+proton radius
+hydrogen spectroscopy
+physical model
+static limit
+characteristic frequency
+natural approach
+general formula
+continuous spectrum
+secondary electron
+hartree fock solution
+self consistent density
+spectral method
+pseudospectral method
+dominant length scale
+fermionic superfluid
+quadrupole ion trap
+nonlinear resonance
+radioactive ion beam facility
+collinear laser spectroscopy
+laser spectroscopy measurement
+magnesium isotope
+acceleration voltage
+molecular collision
+rydberg atom interaction
+optical response
+nonlinear absorption
+fermi contact interaction
+nmr signal
+ba model
+electron tunneling
+ab initio study
+internal electric field
+maxwellian plasma
+phase separation
+species interaction
+interspecies interaction
+recoil energy
+information theory
+spherical harmonic
+kullback leibler
+chemical information
+harmonic content
+zero orbital angular momentum
+barium titanate
+resonant enhancement
+anisotropic interaction
+red star
+direct laser cooling
+population dynamic
+ice vi
+dicke effect
+static magnetic field
+rotation angle
+polarization ellipse
+mental effort
+microwave spectroscopy
+coherent manipulation
+coherent tunnelling
+transverse doppler effect
+fast ion beam
+special relativity
+lorentz violation
+interatomic coulombic decay
+longitudinal spin relaxation
+magnetic dipole dipole
+femtosecond scale
+ultracold dipolar gas
+efimov effect
+efimov state
+scattering observables
+material surface
+antihydrogen atom
+precision laser spectroscopy
+electron hole
+density functional theory investigation
+laser induced ionization
+straight line
+projectile motion
+tunneling current
+tunnel ionization
+photoelectrons emitted
+excited rydberg state
+focusing optic
+trajectory simulation
+atom dimer scattering length
+atom dimer scattering
+coupled cluster equation
+linear equation
+convergence problem
+magnetic field profile
+fourier analysis
+microwave transition
+ultracold rbcs molecule
+stern gerlach effect
+spin transition
+stern gerlach
+nuclear anapole moment
+atomic parity violation measurement
+electric dipole transition amplitude
+parity violation measurement
+polarization angle
+particle trajectory
+atomic beam source
+hydrogen isotope
+excitation spectrum
+rydberg ion
+optical absorption
+electrical power
+compact disc
+water cooling
+quantum mechanical simulation
+non zero total angular momentum
+triplet resonance
+multipole expansion
+direct optical excitation
+optical excitation
+special set
+diagrammatic representation
+matching distance
+molecular scattering
+spectroscopic identification
+single photon double ionization
+extreme energy
+excited energy level
+fabry perot cavity
+spectral hole burning
+fractional frequency stability
+fabry perot
+frequency sensitivity
+coherent population oscillation
+nonlinear wave mixing
+coherent optical field
+heterodyne detection scheme
+spectral resolution
+laser linewidth
+ground field
+bose condensate
+waveform generator
+collisional stability
+tensorial form
+pulsed laser ablation
+yag laser
+maxwell boltzmann
+calcium flux
+trapped ion crystal
+calcium isotope
+secular motion
+frequency precision
+fluorescence collection
+reference system
+molecular imaging
+atomic momentum
+energy eigenstate
+rydberg electromagnetically induced transparency
+laplaces equation
+x ray spectroscopy
+differential measurement
+ray spectroscopy
+time dependent wave packet
+uv radiation
+xuv radiation
+vibrational analysis
+diamagnetic shift
+spatial configuration
+triplet electronic state
+rotational structure
+ultracold chemistry
+neutral current
+full numerical simulation
+zero field nmr
+zero field nuclear magnetic resonance
+magnetic field pulse
+spin precession induced
+polarized optical emission
+spin wave
+qubit operation
+bit operation
+magnetic field noise
+induced electric dipole moment
+thorium monoxide
+single scattering event
+excited state transition
+state transition
+polarization spectroscopy
+homogeneous linewidth
+doppler free spectroscopy
+steepest descent
+transverse velocity distribution
+ultracold heteronuclear molecule
+robust experiment
+confined hydrogen atom
+absolutely convergent
+confinement radius
+optical waveguide
+weak mixing angle
+mixing angle
+weak mixing
+spectroscopic analysis
+photon energy dependence
+state transfer fidelity
+high finesse cavity
+high frequency stability
+higher order correlation
+ground state energy
+linear response function
+response function
+high electric field
+threshold model
+fermionic specie
+strontium optical lattice clock
+electric charge
+low energy electron collision
+ro vibrational excitation
+mid infrared laser pulse
+mid infrared laser
+momentum plane
+bosonic atom
+magnetic field strength
+azimuthal quantum number
+radiative decay rate
+emission wavelength
+optical transmission
+excitation profile
+particle orbit
+red peak
+single electron transition
+electron orbitals
+quantum degenerate gas
+dove prism
+quantum degenerate
+wave packet revival
+delta function
+symmetry breaking mechanism
+ion coulomb crystal
+second order doppler shift
+systematic frequency shift
+segmented linear paul trap
+carbon monoxide molecule
+carbon monoxide
+trapping experiment
+tensor representation
+ultra relativistic
+vacuum ultraviolet
+scattering phase shift
+pulse width
+power density
+fluorescence spectrum
+decay curve
+fluorescence decay
+wigner crystal
+nuclear isomer
+decimal place
+magnetic field fluctuation
+precision mass measurement
+high precision mass measurement
+penning trap experiment
+max planck
+ultra high precision
+cyclotron frequency
+sensitive measurement
+orthogonal geometry
+mean field theory
+quantum monte carlo simulation
+trapped bose gas
+superfluid transition
+kosterlitz thouless
+bkt transition
+kt transition
+electro magnetic
+fullerene molecule
+billiard model
+robust separation
+scalable quantum computation
+optically trapped atom
+qubit state
+rydberg blockade
+blockade mechanism
+exact diagonalization technique
+diagonalization technique
+isolated attosecond pulse
+single atom response
+spectral width
+neon gas
+cesium rydberg atom
+quantum gate
+infrared wavelength
+physical effect
+frequency drift
+logical analysis
+physics package
+quantum chemistry calculation
+resonant formation
+individual decay rate
+linearly polarized light
+extended cavity diode laser
+storage ring measurement
+bending magnet
+coherent population trapping state
+flight mass spectrometer
+quantum logic
+pulse energy
+ion production
+water molecule
+radiation intensity
+ab initio simulation
+correlated electron dynamic
+attosecond precision
+magnetically confined fusion plasma
+classical trajectory monte carlo
+magnetically confined fusion
+charge exchange recombination
+charge exchange recombination spectroscopy
+fusion plasma
+plasma diagnostic
+electron localization
+molecular motion
+waveform synthesis
+low energy scattering phase shift
+channel model
+interaction model
+si second
+laser cooling scheme
+doppler laser cooling
+rovibrational transition
+high resolution x ray spectroscopy
+high resolution x ray
+electric field control
+wave character
+molecular binding
+pound drever hall
+laser cooling experiment
+distributed feedback laser
+dipole oscillation
+electron exchange
+pressure broadening
+heat pipe
+absorption cell
+single stage
+deep uv
+electron momentum density
+computational quantum chemistry
+gamma spectrum
+resonant frequency
+non linear optic
+spatial frequency
+scalable system
+electric field pulse
+density dependence
+unprecedented resolution
+submicron spatial resolution
+supersonic molecular beam
+vibrational band
+excited state population
+nuclear resonance
+pumping laser
+quenching efficiency
+mach zehnder interferometer
+longitudinal magnetic field
+nano scale
+spiral pattern
+surface adsorption
+measured spectrum
+photoelectron spectrum
+taylor series expansion
+statistical model
+statistical modeling
+hermite polynomial
+taylor series
+emission profile
+excited state spectroscopy
+perturbation technique
+transition linewidth
+thermal correlation function
+finite temperature analysis
+density profile
+thermal correlation
+positional information
+spectral asymmetry
+atomic trajectory
+nuclear wave function
+ct image
+laser manipulation
+projection method
+rotation method
+molecular dynamics simulation
+structural phase transition
+phase transition
+thermal transfer
+radiation damping
+opacity calculation
+optical magnetometer
+monochromatic light
+quasi steady state
+steady state regime
+photon resonance condition
+system dynamic
+point spread function
+radio frequency quadrupole
+gaussian distribution
+thermal motion
+precise calibration
+pressure measurement
+gas composition
+legendre polynomial
+dephasing mechanism
+high finesse fabry perot cavity
+barium isotope
+compact form
+high precision laser spectroscopy
+longitudinal relaxation
+effective dipole moment
+optical path
+association probability
+monte carlo average
+graphical representation
+state manipulation
+adaptive optics system
+laser guide star
+diffraction limited imaging
+diffraction limit
+adaptive optic
+atmospheric turbulence
+image distortion
+diffraction limited
+guide star
+emission pattern
+resonant scattering
+laser beam propagation
+spatial filtering
+error signal
+spatial filter
+emission frequency
+valence orbitals
+ionisation energy
+pump laser
+landau pomeranchuk migdal effect
+partition function
+computer program
+coarse grained
+hot plasma
+coarse grain
+spectral absorption
+atomic force microscopy
+scanning probe microscopy
+interaction force
+scanning probe
+pi controller
+lateral movement
+force microscopy
+afm imaging
+laser doppler vibrometer
+afm probe
+tapping mode
+state feedback controller
+state feedback control
+transient dynamic
+feedback controller
+image quality
+elastic modulus
+surface profile
+probe tip
+fourier transform spectrometer
+liquid helium
+soleil synchrotron
+international atomic time
+microwave lensing frequency shift
+phase perturbation
+radiative recombination rate
+statistical theory
+rational basis
+correlated model
+time delay measurement
+single photon ionization
+laser assisted photoionization
+delay measurement
+wave theory
+free electron laser pulse
+electro optic phase modulation
+phase modulation
+frequency modulation
+point spectrum
+fifth harmonic
+short pulse laser
+travelling wave
+planar geometry
+reaction microscope
+nitrogen vacancy center
+nitrogen vacancy
+symmetry axis
+solid angle
+gyromagnetic ratio
+magnetic structure
+rotating field
+piezoelectric actuation
+proton radius puzzle
+muonic hydrogen spectroscopy
+cascade system
+group velocity
+intense light pulse
+asymmetric molecule
+rotational wave packet
+broken symmetry
+oscillatory motion
+coherent motion
+doppler velocimetry
+chemical reaction rate
+ion pair
+ion chemistry
+spectral band
+spectral bandwidth
+transmitted light
+standard model extension
+local lorentz invariance
+lorentz invariance
+equatorial plane
+fano resonance
+fano profile
+decreasing function
+optical isolator
+magnetic transition
+electromagnetic transition
+phase offset
+fermis golden rule
+energy norm
+dual pair
+photon correlation spectroscopy
+correlation spectroscopy
+scattering model
+exchange force
+transient absorption spectroscopy
+single photon transition
+optical gain
+transient absorption
+relative delay
+thz wave
+terahertz wave
+electron trapping
+photon structure
+dissociative ionization
+proton energy
+linear molecule
+rigid rotor
+molecular field
+mixed field
+resonant tunneling
+force sensor
+force measurement
+amplitude modulated
+alpha particle
+electron hole pair
+high harmonic emission
+sulfur dioxide
+revival structure
+phase sensitive detection
+closed loop
+noise spectrum
+negative feedback
+spectral response
+squeezed light
+universal scaling law
+atom atom interaction
+ac magnetic field
+fabry perot interferometer
+bound state wave function
+elastic electron scattering
+proton charge radius puzzle
+precision determination
+frequency resolved optical gating
+electron impact excitation rate
+general purpose
+collision strength
+matrix code
+electromagnetic interaction
+electron pair
+wave function expansion
+slater orbitals
+quantum tunneling
+electron transfer
+sequential tunneling
+steady state measurement
+coherent radiation
+optical thickness
+light transport
+diffusive model
+rms charge radius
+emitted photon pair
+wave shape resonance
+atomic mass number
+nuclear quadrupole moment
+mass number
+laser driven atom
+self organization
+linear magnetoelectric effect
+electric polarization
+magnetoelectric effect
+squid magnetometer
+electric dipole moment measurement
+electrons electric dipole moment
+optically trapped mixture
+feshbach spectroscopy
+sensitivity coefficient
+nuclear alpha decay
+alpha decay
+single cesium atom
+coherence length
+neutron electric dipole moment
+neutron magnetic moment
+atomic frequency standard
+boundary element
+ion cloud
+thomas fermi theory
+instability threshold
+stability threshold
+fermi theory
+covalent radius
+state insensitive trapping
+linear correlation
+precise numerical simulation
+electron wavepacket
+high thermal conductivity
+atomic resonance frequency
+thermal conductivity
+heat transfer
+gas volume
+atom field coupling
+standing wave field
+high precision localization
+field coupling
+atom localization
+hybrid quantum system
+single carbon nanotube
+harmonic phase
+nuclear force
+strength constant
+core excited state
+relativistic configuration interaction calculation
+quantum projection noise limit
+lattice system
+noise floor
+optical oscillator
+cavity enhanced
+closed cycle
+state readout
+x ray free electron laser pulse
+non radiative decay
+porous glass
+atomic fluorescence
+atomic absorption
+phase locking
+phase distortion
+correlated wave function
+probe set
+quantum path interference
+electron trajectory
+self reference
+charge migration
+attosecond spectroscopy
+ultracold molecular collision
+plasmonic field enhancement
+spatial dependency
+semiclassical calculation
+plasmonic nanostructure
+non relativistic quantum electrodynamics
+light element
+stimulated emission
+perturbation treatment
+electrons anomalous magnetic moment
+cavity qed experiment
+cavity qed
+motion compensation
+muons anomalous magnetic moment
+coulomb scattering
+heavy electron
+spin configuration
+dirac spinor
+dirac spin
+atomic tunneling
+ion heating
+coulomb logarithm
+collisional cooling
+attosecond transient absorption spectroscopy
+transient absorption spectrum
+photon rabi oscillation
+attosecond transient absorption
+closed form formula
+elliptic polarization
+co existing
+ro vibrational transition
+rational number
+exotic molecule
+exciton transport
+collimated beam
+ramsey spectroscopy
+coupled channels analysis
+state channel
+electron edm experiment
+optical spectroscopy
+uncertainty analysis
+tungsten carbide
+static electric dipole polarizabilities
+metal ion
+molecular nitrogen
+stellar astrophysics
+statistical modelling
+anomalous absorption
+spectral line shape
+line shape analysis
+extreme ultraviolet light
+shape analysis
+spectroscopic signature
+ultraviolet light
+dipole response
+violet light
+ab initio computation
+ab initio computational method
+radial wave function
+scattering equation
+recombination reaction
+particle transition
+quantum mechanical treatment
+excess energy
+vibrational eigenmodes
+scalable quantum information processing
+quantum information experiment
+perfect conductor
+relativistic particle
+cubic lattice
+von neumann
+quantum confinement
+spectrum reconstruction
+spectral analysis
+coulomb focusing
+fermionic ground state
+relative orientation
+vibronic state
+spatial dependence
+bow tie
+metallic nanoparticle
+signal detection
+light absorption
+larmor precession
+temporal coherence
+spectral linewidth
+frequency modulated
+ir radiation
+quasi bound state
+free electron laser flash
+coherent phase control
+energy level structure
+optical depth
+spectroscopy technique
+free free transition
+high energy scattering
+projectile target interaction
+correlated gaussian basis
+mass effect
+steady state velocity
+optically pumped atom
+quantum mechanical prediction
+localized surface plasmon
+plasmonic near field
+functional form
+surface plasmon
+metal nanoparticle
+molecular cloud
+carbon dioxide molecule
+fluorescence emission
+ionized carbon
+transfer function
+van der waals molecule
+linear dependence
+red shift
+attosecond time delay
+group delay
+valence shell
+cooling performance
+interaction analysis
+synchrotron light source
+synchrotron light
+finite element analysis
+capillary tube
+alkaline earth metal
+core configuration interaction
+core configuration interaction calculation
+hollow cathode lamp
+injection locking
+spin magnetic moment
+bayesian analysis
+magnetic bottle
+gravitational mass
+inertial mass
+gravitational measurement
+product distribution
+barrier tunneling
+strong field tunnel ionization
+resonant laser excitation
+mechanical force
+x ray binary
+low mass x ray binary
+xmm newton
+dense atomic gas
+topological defect
+magnetometer sensitivity
+harmonic vibration
+wave surface
+frequency tunability
+partial ionization
+electron wavefunction
+physical chemistry
+spontaneous nucleation
+spring constant
+optical nanofibre
+sub wavelength localization
+particle collision
+positronium atom
+accurate numerical calculation
+multichannel scattering
+hot atom
+larmor precession frequency
+duty cycle
+angular momentum distribution
+single electron wave packet
+long distance
+bond length
+long range spin
+ion energy spectrum
+broad spectrum
+recombination radiation
+coherent population transfer
+final momentum distribution
+electric field amplitude
+ground state hyperfine level
+self consistent field theory
+computational complexity
+electron binding energy
+analytic continuation
+diabatic state
+cold atom system
+exponential decay function
+polarization gradient cooling
+rare earth metal
+momentum structure
+magnetic moment measurement
+casimir polder interaction
+pairwise summation
+surface ion trap
+ion trap system
+microfabricated surface ion trap
+anisotropic magnet
+fragment ion
+collision energy dependence
+elastic scattering rate
+optical tweezer
+collision theory
+isolated neutron star
+neutron star magnetic field
+hartree fock equation
+neutron star atmosphere
+neutron star
+chemical composition
+thermal emission
+photon density
+molecular theory
+orbital energy
+vibrationally excited state
+mating system
+relativistic mass
+propagating light pulse
+radiation emission
+momentum diffusion
+matrix model
+fractal dimension
+statistical method
+linear function
+benfords law
+wigner surmise
+kapitza dirac effect
+rotation axis
+field quantum
+geometric mean
+nuclear beta decay
+beta decay
+absolute deviation
+condensed matter system
+condensed matter
+ns diagram
+electron proton scattering
+muonic hydrogen experiment
+mean value
+fundamental equation
+diagonal matrix
+shift operator
+negative value
+ct value
+magneto optical spectroscopy
+fourier coefficient
+relative magnitude
+light beam
+multipole moment
+algebraic expression
+square wave
+non linear resonance
+space charge
+power consumption
+optical resolution
+halide ion
+wave resonance
+chemically inert
+microwave resonance
+extraction efficiency
+optical coherence
+coherent energy transfer
+spin model
+exciton dynamic
+high resolution image
+spatially resolved information
+microwave cavity
+atomic sensor
+glass wall
+spectroscopic resolution
+spectroscopic method
+azimuth angle
+pic method
+rovibronic ground state
+formation path
+radio frequency spectroscopy
+coherence feature
+x ray radiation
+electric dipole dipole interaction
+space charge effect
+electric dipole excitation
+radial plane
+dark magneto optical trap
+red fraction
+fractional population
+atomic lattice
+directional propagation
+hamiltonian matrix
+plasma screening
+radial function
+quantum kinetic theory
+primordial star formation
+steady state rate
+star formation
+kinetic theory
+astrophysical simulation
+physical simulation
+quantum classical correspondence
+non zero electric dipole moment
+molecular dissociation
+magnetic field curvature
+standing wave excitation
+temporal duration
+cooling transition
+noise rejection
+acceleration measurement
+spin squeezed state
+phase locked loop
+cold atom ensemble
+squeezed state
+heterodyne measurement
+vice versa
+complete information
+interaction mechanism
+euv radiation
+coupled cluster ansatz
+atomic configuration
+pauli exclusion principle
+energy eigenvalue
+shell model
+exclusion principle
+bose particle
+pauli exclusion
+successful measurement
+relativistic study
+ab initio description
+quantum logic spectroscopy
+x ray diffraction
+linac coherent light source
+ultrashort x ray pulse
+single molecule
+diffraction experiment
+structural isomer
+interaction volume
+diffractive imaging
+rating system
+muon transfer rate
+linear frequency
+stopped muon
+rotating reference frame
+high repetition rate laser
+frequency component
+bloch vector
+radiative force
+photon cascade
+resonance feature
+magnetic ground state
+open shell molecule
+frequency distribution
+bohmian trajectory
+dirac sea
+sea state
+emitted photon energy
+analytical method
+oscillator representation
+laguerre gaussian mode
+laguerre gaussian laser mode
+outer ring
+laguerre gaussian
+multiply connected
+diffractive optic
+gaussian mode
+polariton mode
+rydberg polaritons
+varying fundamental constant
+minimum distance
+spin locking
+atomic experiment
+electron elastic scattering
+dyson equation
+kinetic energy spectrum
+photon number
+dynamic dipole polarizability
+product form
+exact quantum calculation
+dynamic switching
+trapping light
+dynamic switch
+linearly polarized laser beam
+free field
+precise connection
+harmonic oscillation
+rydberg dressed atom
+pair correlation function
+quantum optimal control
+quantum optimal control theory
+fano type resonance
+enhanced harmonic generation
+lamb dicke regime
+vibrational spectroscopy
+rovibrational spectrum
+optical wavelength
+solid state quantum device
+quantum hybrid system
+hybrid system
+optical manipulation
+dilution refrigerator
+discrete structure
+noise reduction
+measurement system
+least squares fitting
+ch radical
+electron diffraction experiment
+electron diffraction
+electron source
+charge oscillation
+ground state energy calculation
+electric field effect
+nuclear bound state
+atomic bound state
+non perturbative numerical method
+induced scattering
+sub doppler laser cooling
+grating magneto optical trap
+magnetic induction tomography
+magnetic induction
+entanglement generation
+dipole magnet
+hydrogen plasma
+generation efficiency
+collision velocity
+ion velocity
+born series
+photonic band gap
+thermodynamic limit
+transfer matrix
+reference line
+photoelectron emission
+data acquisition system
+detection sensitivity
+state discrimination
+hubble space telescope
+space telescope imaging spectrograph
+white dwarf star
+hubble space telescope imaging
+hubble space telescope imaging spectrograph
+white dwarf
+dwarf star
+space telescope
+isotopic shift
+imaging spectrograph
+spinless particle
+particle trap
+central star
+planetary nebula
+stark broadening
+semiclassical formalism
+ordinary differential equation
+normal modes analysis
+molecular magnet
+free radical
+momentum dependence
+high modulation depth
+modulation scheme
+spectroscopic feature
+modulation depth
+modulation spectroscopy
+reaction rate coefficient
+dynamic network
+decoherence source
+phase variation
+frequency calibration
+coherent optical manipulation
+photon scattering
+optical power
+spectral purity
+electric dipole transition moment
+excited eigenstates
+triplet bound state
+atom spectrum
+statistical significance
+narrow line cooling
+general solution
+molecular polarization
+resonance energy
+quantum communication scheme
+quantum communication
+dielectric material
+evanescent field
+surface atom
+optical coupling
+active surface
+quantum simulation scheme
+quantum computing
+linear response theory
+steady state behavior
+frequency tuning
+amplitude response
+lasing transition
+superradiant laser
+collective excitation
+split operator technique
+axial symmetry
+fundamental component
+isotopic abundance
+isotope ratio
+ab initio quantum chemistry
+mass energy
+molecular cooling
+vibronic transition
+trapped charged particle
+surface plasmons propagating
+quantum technology
+optical emitter
+single walled carbon nanotube
+logistic function
+excited configuration
+active cooling
+spatial coherence
+fringe visibility
+quadrature component
+atomic magnetometry
+rotational symmetry
+short wave
+electronic wavefunction
+scattered light
+light trap
+frequency ratio measurement
+frequency ratio
+transverse electric field
+neutron interferometer
+ac phase
+leading order correction
+double electromagnetically induced transparency
+dynamical core
+spin orbit effect
+spectral shape
+ultrafast laser
+stimulated absorption
+photoemission spectroscopy
+resonance fluorescence
+emission spectroscopy
+resonance coupling
+isolated peak
+van der waals attraction
+thermal desorption
+desorption mechanism
+molecular symmetry
+motion coupled cluster
+liquid state
+narrow linewidth laser
+high speed control
+spectroscopic observation
+transfer technique
+twisted electron beam
+topological charge
+polarization distribution
+twisted electron
+antiproton decelerator
+high resolution measurement
+resolution measurement
+x ray detector
+measured emission line
+emission measurement
+red line
+molecular bond
+radial coordinate
+time dependent simulation
+time resolved photoemission
+vertical cavity surface emitting laser
+density matrix analysis
+matrix analysis
+radiative cooling
+chip scale atomic clock
+system model
+laser pulse duration
+attosecond delay
+metallic bonding
+metallic bond
+weak charge
+neutron distribution
+electron quantum dot
+direct numerical solution
+predictor corrector scheme
+electromagnetic pulse
+predictor corrector
+heat dissipation
+induced current
+inductive effect
+vibrational energy level
+rovibrational energy level
+vibrational manifold
+magnetic field gradient
+si system
+electron cooler
+flight mass spectrometry
+single molecule fluorescence
+rotational distribution
+detection threshold
+hermitian matrix
+spectral representation
+calculated oscillator strength
+confluent hypergeometric function
+rich family
+pulse amplitude
+heun equation
+ner model
+zener model
+parametric model
+heun function
+dependent variable
+amplitude model
+resonance crossing
+surface polariton mode
+chemical stability
+energy level shift
+photonic crystal fibre
+hollow core photonic crystal fibre
+photonic crystal
+collisionally ionized plasma
+ionized plasma
+spectroscopic diagnostics
+nuclear excitation energy
+observable shift
+high sampling rate
+beam interferometer
+ground state population
+molecular rotor
+neutron halo
+transverse field
+light weight
+natural abundance
+magnetic field vector
+electric polarizability
+trapped ion experiment
+modal distribution
+quantum field theory
+proper time difference
+quantum field theory treatment
+quantum field
+phase evolution
+compton frequency
+astrophysical model
+optical comb
+fine tuning
+central element
+subatomic particle
+atomic particle
+transmission line resonator
+transmission line
+uv irradiation
+long wavelength limit
+redfield theory
+coherent diffractive imaging
+atomic resolution
+energy gain
+time domain spectroscopy
+angular momentum transfer
+laguerre gaussian beam
+orbital angular momentum transfer
+winding number
+rotational motion
+excitation wavelength
+classical trajectory monte carlo simulation
+electron distribution
+polarization multiplexing
+casimir polder force
+surface wave
+free fall time
+metastable excited state
+iterative method
+chebyshev expansion
+cross over
+accurate spectroscopic parameter
+hamiltonian model
+measurement uncertainty
+international committee
+frequency transfer
+electrostatic storage ring
+molecular clock
+allan variance
+real space lattice
+tight binding
+dynamic localization
+ch band
+fifth force
+electric field distribution
+autler townes splitting
+sub wavelength resolution
+sub wavelength imaging
+autler townes effect
+spatial scale
+field map
+wavelength resolution
+destructive interference
+magnetic field resolution
+dc stark effect
+single particle greens function
+laser cooled cesium atom
+frequency bias
+laguerre polynomial
+lagrange function
+gauss quadrature
+range function
+strong microwave field
+restoring force
+chemical diversity
+momentum map
+color field
+momentum mapping
+cutting edge
+ionized atom
+magnetic dipole dipole interaction
+orbital motion
+general relativity
+noise source
+geophysical exploration
+ccd sensor
+ultralong range rydberg molecule
+long range rydberg molecule
+light induced drift
+adsorption energy
+sticking probability
+ab initio quantum mechanical
+quantum anomaly
+stochastic acceleration
+third order nonlinear susceptibility
+back action
+self focusing
+lattice beam
+linear material
+forbidden line
+time dependent wave function
+wigner quasiprobability distribution
+wigner distribution
+quasiprobability distribution
+direct numerical simulation
+velocity dependent friction
+anharmonic trap
+relative frequency
+quantum limited
+relativistic geodesy
+field induced shift
+electro magnetic radiation
+trapped ytterbium ion
+free induction decay
+terahertz frequency
+stored energy
+coherent emission
+coherent spectroscopy
+calibrated measurement
+optical transducer
+reference signal
+gravity gradient tensor
+angular velocity
+white noise
+earths gravity
+gravity gradient
+cold atom clock
+secondary standard
+plasma rate coefficient
+decay measurement
+light matter interaction
+quantum information processor
+error correction
+composite pulse
+quantum wave
+quantum wavefunction
+inertial sensing
+finite element simulation
+rubidium rydberg atom
+full wave finite element simulation
+millimeter wave
+open ended
+calibration technique
+generated attosecond pulse
+absorption experiment
+spherical harmonics expansion
+nuclear core
+binary pair
+predictive power
+codata value
+gas phase chemical reaction
+chamber pressure
+sub femtosecond duration
+target function
+direct digital synthesizer
+coriolis acceleration
+transverse momentum distribution
+adiabatic cooling
+spectral transition
+generation scheme
+standard uncertainty
+strong x ray source
+boundary value problem
+boundary value
+energy function
+cherenkov radiation
+erenkov radiation
+dipole dipole coupling
+spin dependent coupling
+nuclear shell model calculation
+nuclear shell
+delay effect
+infra red
+least squares analysis
+spin polarized electron
+scattering reaction
+crank nicolson
+phase modulator
+semiempirical model
+electrical current
+self assemble
+self assembled
+quantum evolution operator
+evolution operator
+semiclassical method
+max planck institute
+energy dependent time delay
+measurement technique
+coincidence detection
+optical dipole force
+perfect match
+laser absorption spectroscopy
+drift velocity
+kagome lattice
+optical fibre
+hc pcf
+electronic system
+ionic charge
+ramsauer townsend effect
+atom trap trace analysis
+cross contamination
+x ray scattering
+synchrotron radiation
+linear superposition
+linear dispersion
+linear phase
+partial decay rate
+particle flux
+doppler cooling limit
+propagating pulse
+atomic carbon
+matter wave interferometry
+atomic form factor
+optical trapping force
+thermal range
+collisional ionization
+monte carlo calculation
+stark spectroscopy
+position expectation value
+photon flux
+finite difference time domain
+time domain simulation
+finite difference time domain simulation
+cavity quality factor
+cavity electric field
+trapping atom
+advanced light source
+partial wave analysis
+wave analysis
+conversion ratio
+resonance linewidth
+intense magnetic field
+magnetized white dwarf
+absorption feature
+holographic mapping
+optical lattice trap
+transition rule
+line identification
+length measurement
+wavelength measurement
+quantum register
+ultra stable laser
+chaotic orbit
+mott scattering
+phonon laser
+amplification gain
+atomic rubidium vapor
+shot noise limited sensitivity
+ultrafast laser pulse
+vertical ionization energy
+growth curve
+daughter nucleus
+momentum resolved study
+deconvolution method
+momentum resolved
+doppler shifted
+high resolution imaging
+relative velocity vector
+angular resolution
+relative velocity
+imaging technique
+velocity vector
+abel transform
+ultrahigh resolution
+light emission
+constructive interference
+signal peak
+dominant ionization mechanism
+optical orbital angular momentum
+matter wave vortex
+optical vortex
+atomic superfluid
+flux method
+probability flux
+nuclear energy
+nuclear polarization
+quantum radiation
+ultracold feshbach molecule
+atomic condensate
+focused ion beam
+liquid metal
+ultrafast electron diffraction
+structural deformation
+diffraction imaging
+carbon disulfide
+stimulated raman scattering
+quantum efficiency
+timing stability
+quantum beating
+scattering function
+pump probe study
+non neutral plasma
+momentum resolution
+momentum vector
+half life
+lithium ion
+spherical geometry
+point charge
+beam profile
+beam intensity
+time reversal invariance
+collective motion
+solid helium
+photonic crystal fiber
+hollow core photonic crystal fiber
+strong optical nonlinearities
+optical nonlinearities
+navigation system
+retro reflector
+electro magnetic field
+interaction operator
+high power laser
+colour field
+hilbert transform
+attractive force
+active center
+concrete calculation
+octopole moment
+multipole interaction
+optical window
+wavefront aberration
+plasma electron density
+level crossing phenomenon
+quantum plasma
+rayleigh ritz
+precise energy
+ion chain
+harmonic motion
+extreme ultraviolet radiation
+ultraviolet radiation
+super radiance
+non polar solvent
+accurate detection
+liquid medium
+final form
+rf signal
+polar solvent
+photon excitation scheme
+polarized radiation
+multiphoton excitation
+ring structure
+dirac spectrum
+microwave dressing
+electrical transmission line
+constant speed
+centripetal acceleration
+electric field operator
+wave number
+field operator
+special method
+finite sum
+attosecond extreme ultraviolet
+density evolution
+tunneling barrier
+spatial information
+electroweak theory
+nodal line
+calculated energy
+intensity range
+quantum state control
+intensity correlation
+optical magnetometry
+analytic solution
+atomic spectrum
+thermal velocity dispersion
+velocity dispersion
+cosmological model
+spectroscopic information
+thermal velocity
+logical model
+absorption measurement
+boltzmanns constant
+absorption lineshape
+steady state condition
+axial magnetic field
+magneto optical effect
+polarization measurement
+coherent interaction
+achievable precision
+gravitational model
+newtonian constant
+gravitational mode
+physikalisch technische bundesanstalt
+optical fiber
+international system
+national system
+sagnac interferometry
+symmetry analysis
+pt symmetry
+cpt symmetry
+coupled channels model
+spectroscopic model
+hot band
+synchrotron soleil
+large scale computation
+collision problem
+statistical law
+fragmentation pattern
+molecular fragmentation
+quantum superposition state
+quantum superposition
+phase correction
+relative motion
+correlation calculation
+microwave radiation
+optical cycling
+left right asymmetry
+photon propagation direction
+photon propagation
+comparative analysis
+gravitational wave detection
+line length
+spectral separation
+quantum correction
+confidence interval
+axial vector
+pseudo scalar
+exotic particle
+hyperfine spectroscopy
+laser ranging
+linear momentum
+trapped bose einstein condensate
+cigar shaped trap
+transverse confinement
+accurate wave function
+variational energy
+x ray photon energy
+time dependent rate equation
+dynamical evolution
+single core
+flux density
+beam line
+faraday cup
+paul scherrer institute
+paul scherrer institut
+ultracold neutron
+cold neutron
+free spin
+giant dipole resonance
+gabor analysis
+dissociation mechanism
+self evident
+photo absorption
+long path
+calculated branching ratio
+higher lying excited state
+coherent diffraction pattern
+magnetic field inhomogeneity
+free fall acceleration
+spin orientation
+stepping stone
+gravity acceleration
+local thermodynamic equilibrium
+steady state plasma
+thermodynamic equilibrium
+dynamic equilibrium
+code base
+coherent control scheme
+citation pattern
+excitation pattern
+laser spectrum
+color scheme
+c h bond
+laser induced electron diffraction
+multiple bond
+linearly polarized excitation
+nonlinear excitation
+mathematical model
+fundamental frequency
+oscillation dynamic
+ground state configuration
+superconducting electron
+vacuum wavelength
+electronic orbitals
+gas solid interface
+strong electron correlation
+strongly coupled plasma
+dynamic pressure
+high dimensional parameter space
+residual electric field
+light pressure
+ion trajectory
+terahertz radiation
+terahertz emission
+terahertz generation
+helium isotope
+trapped ultracold atom
+x ray absorption
+canonical partition function
+red wing
+boltzmann weight
+final quantum state
+interferometric method
+pure substance
+zero energy wave function
+ill conditioning
+quadrature formula
+log derivative
+band spectrum
+electron polarization
+radial orbit
+plasma mode
+quantum measurement
+energy transport
+information gain
+shortest periodic orbit
+topological structure
+chaotic behavior
+steady state pattern
+cavity stabilized laser
+gamma ray burst
+short gamma ray burst
+compton scattering
+radiation reaction
+gamma radiation
+compton scatter
+energy level splitting
+energy level difference
+single ion clock
+extinction ratio
+external cavity diode laser
+fiber amplifier
+intensity contrast
+lorentzian lineshape
+nuclear polarization effect
+right circularly polarized
+solar flare
+astrophysical plasma
+stimulated scattering
+external variable
+local density functional
+functional approach
+phase measurement
+interferometric technique
+vapour pressure
+surface treatment
+matching network
+ion milling
+linear radio frequency trap
+double line
+argon gas
+large scattering length
+schwinger variational principle
+bethe salpeter equation
+bethe salpeter
+pionic atom
+stable equilibrium
+gas distribution
+spectroscopic detection
+resonant x ray scattering
+electron flow
+electron current
+scattering pattern
+magnetic field distribution
+spatially resolved image
+resolved image
+symmetry breaking effect
+spectroscopic fingerprint
+optical microtraps
+differential phase
+vibration signal
+hydrogenlike atom
+terminal velocity
+ion charge density
+charge density
+force law
+polarization density
+time resolved probing
+paradigm shift
+collisional radiative modelling
+power loss
+fiber optic
+virtual excitation
+numeric computation
+single rydberg atom
+density gradient
+closed transition
+asymptotic theory
+acoustic method
+dual species atom interferometer
+spin orbit coupling energy
+circular orbit
+linear velocity
+thomas precession
+scanning tunneling microscopy
+molecular beam epitaxy
+low energy electron diffraction
+x ray absorption fine structure
+near edge x ray absorption fine structure
+x ray absorption fine structure spectroscopy
+unit cell
+film thickness
+surface energy
+island edge
+scanning tunneling
+nmr frequency shift
+electronic spin polarization
+fourier component
+attosecond dynamic
+electron energy spectrum
+third harmonic generation
+time resolved observation
+radio frequency electric field
+spectral intensity
+electrical noise
+broadband radio
+chemical bond
+excitonic state
+neutron deficient
+visible spectroscopy
+non linear spectroscopy
+transmission coefficient
+hybrid quantum network
+quantum network
+entangled beam
+oh ion
+excited state geometry
+anti diagonal
+beam energy
+orthogonal basis set
+orthogonal basis
+eigen function
+perturbation series
+vector magnetometer
+photon coherence
+polar angle distribution
+polar angle
+angle distribution
+perturbative method
+coherent extreme ultraviolet
+outer core
+photoionization dynamic
+high precision atomic clock
+radiation pressure effect
+relativistic formulation
+action study
+quantum cavity
+pauli operator
+hard sphere
+lennard jones
+momentum transport
+resonant state expansion
+wave equation
+scattering matrix
+schrodingers equation
+molecular formation rate
+x ray measurement
+atomic measurement
+multiple quantum coherence
+multidimensional spectroscopy
+phase profile
+singly ionized atom
+emission distribution
+fourier series
+photon scattering rate
+heat load
+computational model
+moderate laser intensity
+longitudinal relaxation rate
+femtosecond time resolution
+femtosecond timescale
+femtosecond dynamic
+attosecond metrology
+attosecond experiment
+electron density distribution
+high temperature plasma
+ultrashort electromagnetic pulse
+discrete spectrum
+mass difference
+continuous operation
+long spin coherence time
+low finesse cavity
+faraday rotation spectroscopy
+spin coherence
+optical polarization
+frequency separation
+line frequency
+x ray fluorescence
+excitation function
+calculated electron affinity
+rational function
+large dipole moment
+perturbation analysis
+ultraviolet absorption
+angular aperture
+classical trajectory calculation
+ion energy distribution
+micro motion
+photoelectron energy spectrum
+multiphoton resonance
+graphical method
+macro molecule
+mean free path
+root mean square
+root mean squared
+energy conversion
+wavepacket dynamic
+molecular reaction
+paramagnetic molecule
+intense laser beam
+stick slip friction
+critical lattice depth
+finite chain
+stick slip
+correlation length
+anderson localization
+aging experiment
+special character
+electric dipole coupling
+dc offset
+astronomical observation
+diffuse interstellar band
+electronic spectroscopy
+cosmic dust
+valence excited state
+electronic coupling
+frequency conversion
+laser cooled molecule
+earths surface
+binding energy shift
+photoionized plasma
+shell energy
+double electrostatic ion ring experiment
+dirac hamiltonian
+beer lambert law
+function model
+quantum clock
+phase step
+uncertainty relation
+field experiment
+optically pumped magnetometer
+quantum light matter interface
+dielectric susceptibility
+cavity response
+electron triatomic molecule
+canonical distribution
+microcanonical distribution
+excitonic energy
+cavity resonance
+molecular vibrational state
+microchannel plate
+computational resource
+optical frequency transfer
+transfer method
+clock network
+stress tensor
+canonical form
+dirac field
+force balance
+force density
+magnetic confinement fusion
+visible spectrum
+electron energy level
+open quantum system
+quantum spin dynamic
+quantum spin
+energy band structure
+bloch state
+proton halo
+orbital quantum number
+radiative damping
+anomalous dispersion
+optical link
+fibre optic
+ion pair formation
+ion pair state
+rounding error
+nitrogen vacancy color center
+color center
+fluorescence quenching
+sum frequency generation
+solid state laser
+solid state laser system
+lithium tantalate
+energy balance
+temporal average
+closed form expression
+spatial gradient
+van cittert zernike theorem
+chemical element
+fermi velocity
+intensity correlation function
+intensity correlation measurement
+photon bunching
+correlated electronic structure
+rational series
+atomic spectral line
+feedback loop
+electric dipole interaction
+correlation analysis
+dipolar force
+adiabatic transformation
+weak force
+optical signature
+perturbation calculation
+trial wave function
+power function
+double layer
+heat bath
+photon decay channel
+half integer
+dynamical theory
+fused silica
+laser peak intensity
+satellite navigation system
+full frequency
+satellite navigation
+mean flux
+radiating dipole
+nonlinear refractive index
+optical kerr effect
+floquet theory
+kerr effect
+drude model
+magnetic field intensity
+atom cooling
+molecular geometry
+relativistic hydrogen like atom
+elementary function
+state space
+quantum chemical
+electron scattering experiment
+high temporal resolution
+fiber laser system
+ultrashort pulse laser
+high harmonic source
+timing jitter
+variational monte carlo
+temporal information
+dynamic system
+quantum trajectory
+electron holography
+photoelectron holography
+electronic excited state
+computer technology
+vortex state
+vortex structure
+paraxial optic
+hilbert space
+phase space analysis
+low frequency oscillation
+wavefunction amplitude
+acetylene molecule
+einstein equivalence principle
+dark matter
+gradient measurement
+faddeev equation
+distinguishable particle
+quantum confinement effect
+thin epitaxial film
+graphene sheet
+epitaxial film
+spectroscopic signal
+density variation
+mean motion
+equivalence principle test
+dynamical relaxation
+dynamic relaxation
+driven dissipative system
+intrinsic optical bistability
+dissipative system
+optical bistability
+sharp jump
+second harmonic component
+color component
+spectral manipulation
+high precision sensor
+quantum sensor
+spinor condensate
+particle induced x ray emission
+spectral function
+poisson statistic
+smoothing technique
+smoothing algorithm
+single rydberg excitation
+energy landscape
+nonstationary state
+ultrashort optical pulse
+lorentz equation
+time dependent electric field
+single cycle terahertz pulse
+terahertz pulse
+terahertz field
+optically active
+attosecond temporal resolution
+quantum mechanical equation
+plasma modeling
+mechanical equation
+continuous symmetry breaking
+pattern formation
+continuous symmetry
+self organize
+self organized
+dynamical system
+stochastic dynamic
+quantized system
+information technology
+controlled quantum system
+dark energy
+molecular biology
+electro optical device
+electro optical response
+reflection principle
+light refraction
+self energy shift
+light wavelength
+correlation spectrum
+homodyne detection
+frequency offset
+absorption edge
+water window
+element selectivity
+measurement protocol
+barium star
+homonuclear molecule
+dissociating molecule
+superradiant emission
+semi classical simulation
+density functional theory calculation
+charge density distribution
+nuclear density functional theory
+nuclear density functional
+nuclear density
+li fi
+atomic mass unit
+phase jitter
+momentum correlation
+wavepacket propagation
+ambient noise
+quantum propagator
+harmonic wave
+harmonic waveguide
+particle size distribution
+iron oxide
+magnetic nanoparticle
+final wave function
+ion exchange
+spatial derivative
+derivative operator
+operator method
+constant coefficient
+integro differential equation
+initial state amplitude
+continuum spectrum
+inertial measurement unit
+limited dynamic range
+mobile app
+inertial measurement
+tunable laser
+measurement unit
+optical gyroscope
+electron greens function
+vibrational structure
+quantum noise limit
+rotation sensitivity
+reproducible measurement
+complex electronic structure
+electron detection
+monotonic function
+ultracold chemical reaction
+reaction mechanism
+reaction center
+equally probable
+photon rabi frequency
+type ia sne
+core collapse sne
+massive star
+stellar evolution
+mass loss
+group element
+collisional excitation
+mass density
+adequate sampling
+particle hole excitation
+difference frequency generation
+beat note
+silicon monoxide
+davidson correction
+magneto optical response
+coordinate system
+debye screening length
+ds space
+sounding rocket
+optical bench
+space borne
+technological maturity
+divergence problem
+nuclear interaction
+photon resonant excitation
+einstein coefficient
+spherical coordinate system
+time dependent ionization
+wigner rotation
+hot white dwarf
+ad hoc
+crystal structure
+border line
+spin orbit splitting
+relativistic hydrogenlike atom
+energy level scheme
+electric multipole moment
+energy loss spectrum
+sodium doublet
+high static magnetic field
+mean field energy
+spatial correlation
+electric field measurement
+measurement standard
+optical length
+strong femtosecond laser pulse
+dual channel
+temporal shaping
+threshold photoemission
+statistical analysis
+hard ball
+deeply bound vibrational level
+international space station
+space station
+lattice spacing
+dipole model
+atomic chain
+least square fitting
+square integrable
+sampling theory
+sampling theorem
+digital signal
+electronic hamiltonian
+signal sampling
+erbium doped fiber amplifier
+single photon level
+strong optical nonlinearity
+optical nonlinearity
+liquid nitrogen
+gaussian field
+absorption peak
+beam waist
+separation method
+isotope separation
+magnetic field geometry
+single window
+photon gas
+xenon gas
+photon condensate
+thermalization mechanism
+trajectory model
+inverse gaussian
+geometrical configuration
+collision operator
+lyman line
+voigt function
+atomic nucleus
+magnetic shielding
+elementary form
+guiding experiment
+steady state evolution
+nonequilibrium thermodynamics
+equilibrium thermodynamics
+equilibrium behavior
+nonequilibrium behavior
+blue sky
+atomic scale variation
+distinct electronic state
+atomic scale
+spectroscopic characteristic
+number representation
+magnetic anomaly
+gradient force
+equilibrium velocity
+low energy electron scattering
+trapped cold atom
+thermal management
+electrical connection
+raman sideband cooling
+fock state
+free electron gas
+electron gas
+thermodynamic model
+box model
+nuclear reactor
+thermonuclear reactor
+quantum random walk
+local electron density
+non linear behavior
+intense laser light
+beam axis
+bessel beam
+charge exchange reaction
+co locate
+femtosecond pump probe experiment
+wave function overlap
+muon mass
+threshold value
+sweet spot
+positron annihilation lifetime spectroscopy
+resonance enhanced multiphoton ionization
+laser spectroscopy experiment
+resolving power
+thermal camera
+ultrastable laser
+frequency synthesis
+spatially varying magnetic field
+ellipse fitting
+geometric structure
+metric structure
+cooling model
+rapid crystallization
+cluster correlation
+global navigation satellite system
+absorbing state
+satellite system
+kibble zurek mechanism
+intensity pattern
+magnetic loop
+partial differential equation
+polar coordinate
+azimuthal symmetry
+partial differential
+electromagnetic force
+photonic hall effect
+hall effect
+hall current
+hydrogen spectrum
+dynamical electron correlation
+photon dominated region
+direct charge transfer
+optimal control problem
+quantum optimal control problem
+tailored laser pulse
+differential evolution
+weakly bound state
+nuclear fusion reactor
+nuclear fusion
+file format
+fusion reactor
+tunable magnetic field
+magnetic sensitivity
+hydrogen hyperfine splitting
+quantum information transfer
+information transfer
+light particle
+particle mass
+synchrotron radiation facility
+oxygen ion
+atomic oxygen
+saint aubin
+remote sensing
+quantum scattering theory
+heuristic argument
+molecular oxygen
+temporal correlation
+lattice gas
+dynamic hysteresis
+probability analysis
+harmonic structure
+particle reduced density matrix
+energy level spectrum
+perpendicular magnetic field
+production efficiency
+liquid hydrogen
+centre frequency
+doppler frequency
+fine line
+volterra integral equation
+volterra integral
+visible wavelength
+optical modulation
+association scheme
+stable molecule
+elastically scattered electron
+spin entanglement
+bell correlation
+infrared light
+information content
+momentum measurement
+rotational coherence
+nearest neighbor spacing
+charge parity
+molecular photoionization
+phase modulated
+rydberg wave packet
+asymmetric localization
+charge transfer dynamic
+logarithmic derivative
+preferred value
+ground state fidelity
+state fidelity
+dark matter candidate
+light dark matter
+neutron scattering experiment
+inverse square law
+newtons law
+particle density
+superradiant decay
+bright spot
+atomic magnetic moment
+resonant circularly polarized light
+constant current
+linear differential equation
+non linear equation
+asymptotic solution
+phase function
+oscillatory solution
+message passing interface
+ground state correlation
+message passing
+jacobi method
+cavity cooling
+atomic emission
+focal plane
+optical resonator
+resonator geometry
+period length
+transition mechanism
+single particle sensitivity
+delay line
+optical simulation
+electrostatic lens
+rf heating
+power series expansion
+light pulse atom interferometer
+vandermonde matrix
+slater type orbitals
+black hole
+accretion disk
+plasma effect
+radiative emission
+casimir force
+electronic wavepacket
+surface electrode ion trap
+functional element
+dominant noise source
+correlated state
+attosecond laser pulse
+relativistic treatment
+path integral
+wigner representation
+subradiant state
+accurate representation
+nice agreement
+lamb shift energy
+dirac delta
+unperturbed hamiltonian
+pointlike particle
+plasma electron temperature
+asymptotic expansion
+indirect evidence
+newtonian gravity
+precision metrology
+quantum phase transition
+eigenvalue equation
+unique factorization
+unique eigenvalue
+magnetic hyperfine interaction
+hyperfine spectrum
+electron spin polarization
+ultrafast time scale
+trapped quantum gas
+electronic circuit
+quantum electron
+high energy resolution
+recombination rate coefficient
+cooling agent
+electron microscopy
+high intensity laser field
+single cycle laser pulse
+near single cycle laser pulse
+single particle imaging
+single particle imaging experiment
+high intensity x ray
+quadratic zeeman effect
+polarization configuration
+nondestructive measurement
+paschen back effect
+synchrotron radiation source
+large magnetic moment
+quantum degenerate atomic gas
+quantum logic gate
+logic gate
+qubit entanglement
+robust error
+high sensitivity measurement
+ultrahigh sensitivity
+quantum non demolition measurement
+non demolition measurement
+matching experiment
+gravitational wave measurement
+signal extraction
+strain sensitivity
+linear rf trap
+thin line
+sharp ridge
+matrix inversion
+variational procedure
+inversion algorithm
+holographic structure
+photon shot noise limit
+optical pumping technique
+time dependent trap
+moving wall
+intense ultrashort laser pulse
+energy profile
+nuclear decay
+electron propagator
+talbot lau interferometer
+wigner function
+jost function
+mean velocity
+fundamental vibrational transition
+circular polarized light
+scalar component
+vector component
+single line
+reference clock
+avoided level crossing
+electron field
+orbital energy level
+dipole moment curve
+spectroscopic constant
+moment curve
+thermal radiation
+momentum flow
+physical dimension
+entropic uncertainty
+thermal plasma
+radiative simulation
+ultrastrong coupling regime
+superconducting lc resonator
+ultrastrong coupling
+electric energy
+microwave oscillation
+rare earth element
+anti stokes raman scattering
+primordial plasma
+analytic modeling
+molecule frame dipole moment
+combinatorial optimization problem
+optimization problem
+cost function
+combinatorial optimization
+brute force
+hungarian algorithm
+ice formation
+deformable mirror
+physical object
+high resolution optical spectroscopy
+frictional force
+frictional interface
+electronic stopping power
+stopping power
+plasmon excitation
+electronic stopping
+rotating electromagnetic field
+circular rydberg atom
+dual lattice
+micro gravity
+frequency response
+retrieval efficiency
+measurement instrument
+cross disciplinary
+unprecedented stability
+synthetic aperture radar
+electrical circuit
+synthetic aperture
+radar technology
+singly excited state
+spin chain
+liquid phase
+quasi particle
+hole mobility
+continuous creation
+resolvent operator
+frequency determination
+graph theory
+formal language
+path analysis
+local electric field
+long axis
+collision experiment
+angular displacement
+rydberg excited state
+solid state electronics
+rolling motion
+tunneling experiment
+magnetic noise
+multilayer film
+layer film
+transverse force
+trapped ion optical clock
+quantum channel
+optical array
+classification scheme
+bayesian inference
+image analysis
+fluorescence imaging
+fluorescence image
+plasma volume
+kinetic equation
+quantum recoil
+medium energy
+time reversal symmetry
+charge parity violation
+reversal symmetry
+aharonov bohm effect
+quantitative model
+quantitative simulation
+photon energy resolution
+beam deflection
+porous material
+electromagnetic wave
+resonance excitation
+auger effect
+laser ion interaction
+damping constant
+high harmonic spectroscopy
+fundamental quantity
+echo spectroscopy
+extreme ultraviolet wavelength
+relativistic laser matter interaction
+superior convergence
+electronic density
+surface electron
+projectile trajectory
+qubit system
+rotation gate
+fast fourier transform
+fast fourier transformation
+toeplitz matrix
+transition intensity
+dual state
+excitation spectroscopy
+charge transfer rate
+optically excited state
+electron cooling
+photon detector
+spin response
+resonant atom
+deflection angle
+rutherford scattering
+zero offset
+metal free
+glass material
+transmission efficiency
+integrated spectroscopy
+inertial acceleration
+relative intensity ratio
+particle surface interaction
+interference visibility
+magnetic field measurement
+x ray fluorescence spectroscopy
+metrical structure
+raman spectroscopy
+molecular binding energy
+quantum material
+quantum matter
+quantum engineering
+quantum engine
+reaction chemistry
+nitric oxide
+electric field fluctuation
+radial gradient
+radial motion
+optical structure
+sideband transition
+motional dephasing
+quantum scar
+atom cluster
+path integral formalism
+purely elastic scattering
+infrared active vibrational mode
+ring resonator
+collective measurement
+single photon interferometer
+silicon crystal
+planar channeling
+encounter probability
+bloch siegert shift
+frequency resolution
+earths rotation
+quadrupole splitting
+bound state energy
+unit sphere
+stereographic projection
+digital micro mirror device
+single atom trapping
+texas instrument
+coupled channel scattering
+coupled channel scattering calculation
+rf radiation
+ion implantation
+surface spectroscopy
+spontaneous decay rate
+noise equivalent power
+temperature phase transition
+terahertz electric field
+excited state energy
+euclidean space
+fano interference
+ultrashort light pulse
+single photon limit
+oscillator equation
+electric dipole operator
+nanometer spatial resolution
+molecular ground state
+software package
+antiproton measurement
+coherent backscattering
+resonant fluorescence
+asymptotic limit
+induced emission
+quantum mechanical interference
+measured resonance
+depth analysis
+side lobe
+matrix factorization
+binding mechanism
+dynamic screening
+electrospray ionization
+magnetic field detection
+cosmic microwave background
+microwave background
+coherent anti stokes raman spectroscopy
+fluorescence enhancement
+time frequency representation
+computer algebra
+resonant emission
+helium film
+reflection problem
+spin noise spectroscopy
+momentum relaxation time
+quantum dot ensemble
+noise power
+momentum relaxation
+monoenergetic electron beam
+monoenergetic electron
+algebraic equation
+doppler velocity
+absorption length
+klein gordon equation
+klein gordon
+gordon equation
+geometric asymmetry
+ultrafast optical pulse
+spatial location
+ultrafast optic
+temporal correlation function
+diffusing wave spectroscopy
+gaussian function
+appropriate engineering
+jj coupling
+phase quadrature
+mode coupling
+high fidelity detection
+vibrational overtone transition
+optical probe
+vacuum manifold
+silicate glass
+borosilicate glass
+sapphire crystal
+precise frequency measurement
+spin polarization function
+polarization function
+hollow core fiber
+intimate connection
+magnetic resonance experiment
+electron paramagnetic resonance experiment
+microwave resonator
+resonator frequency
+epr measurement
+maxwell distribution
+probe effect
+angle resolved photoelectron spectrum
+coarse grained structure
+quantum gate operation
+implementing quantum gate
+multidimensional coherent spectroscopy
+opposite spin polarization
+homogeneous equation
+inhomogeneous equation
+magic frequency
+complete sum
+intense near infrared laser pulse
+charge carrier
+conduction band
+accelerated motion
+crystal momentum
+earth rotation
+density matrix calculation
+magnetic field sweep rate
+van hove
+odd number
+spin structure
+phonon lasing
+rapid thermal annealing
+thermal annealing
+photoelectric effect
+energy transmission
+valance band
+laser cutting
+convective zone
+radiative opacity
+national lab
+adiabatic theorem
+quantum coherent control
+gas phase experiment
+ionization state
+ionization fraction
+thermal emission spectrum
+spin rotation parameter
+spin triplet state
+degenerate perturbation theory
+relativistic wave function
+isosceles right triangle
+spin singlet
+equilateral triangle
+spin triplet
+spin multiplicity
+co linear
+configuration state function
+state function
+ultra cold atomic system
+extra dimension
+nonlinear differential equation
+exotic spin dependent interaction
+recurrence relation
+polynomial function
+parity symmetry
+quantization scheme
+microwave power
+wave power
+plasma wakefield accelerator
+self modulation instability
+modulation instability
+plasma wakefield
+plasma wake
+kinematically complete measurement
+tunable long range interaction
+femtosecond optical pulse
+ultrafast pulse shaping
+ultrafast pulse
+second harmonic generation
+single sideband
+electron spin coupling
+ir spectrum
+quantum object
+metric distance
+probing depth
+low frequency noise
+quantum noise limited
+center wavelength
+nonlinear oscillation
+arnold tongue
+synchronization frequency
+continuous wave excitation
+photon transition frequency
+quantum feature
+orbit equation
+coherent summation
+optical frequency metrology
+ritz method
+resonant optical field
+continuous production
+continuous product
+single molecule imaging
+radiation damage
+biological molecule
+abundant element
+fourier theory
+residual phase noise
+absolute phase
+frequency multiplication
+metal film
+optically transparent
+glass window
+wave amplitude
+oscillator frequency
+plateau like structure
+fundamental field
+ip model
+projection operator
+text book
+model independent measurement
+atom transport
+optical scattering
+field electron emission
+quantum particle
+transmission probability
+ring current
+rotary motion
+guiding magnetic field
+rate equations model
+measurement sensitivity
+phase compensation
+time resolved photoelectron spectroscopy
+equal footing
+gravitational energy
+basis function expansion
+absolute difference
+cooling power
+half integer spin
+integer spin
+magnetic scattering
+photon frequency
+single photon detector
+recombination energy
+isotopic effect
+single crystal
+intense emission
+wave phase shift
+low energy elastic scattering
+wave phase
+correlated gaussians
+ultra high resolution spectroscopy
+electromagnetic spectrum
+circularly polarised light
+polarised light
+fabry perot resonator
+transverse mode
+longitudinal mode
+accurate simulation
+balanced homodyne detection
+tapered optical nanofiber
+optical nanofiber
+homodyne detector
+fiber mode
+wave particle duality
+double slit experiment
+wave front
+decoherence mechanism
+slit experiment
+wave particle
+critical state model
+superconducting film
+remnant magnetization
+magnetization hysteresis
+single source
+momentum separation
+state superposition
+fiber optic link
+wireless network
+optical antenna
+signal bandwidth
+asymmetric line profile
+relativistic spin
+counter intuitive
+vibration isolation system
+ramsey interferometer
+interferometry measurement
+asymptotic velocity
+parahydrogen induced polarization
+gold standard
+steady state energy distribution
+steady state energy
+diamagnetic atom
+interaction induced transition
+continuous scale invariance
+scale invariance
+ultracold atomic mixture
+tightly bound electron
+subspace decomposition
+nitrogen atom
+unique id
+measured polarization
+stochastic electrodynamics
+atomic charge
+relativistic formalism
+superconducting circuit
+hybrid structure
+flux qubit
+entangled photon pair
+second order coherence
+hanbury brown twiss
+photon photon correlation
+quantized cavity mode
+entangled photon
+partial transpose
+hanbury brown
+coherence function
+rutherford backscattering spectrometry
+incident photon
+resonant laser field
+quantum droplet
+optical feedback
+group velocity dispersion
+velocity dispersion measurement
+closed system
+system configuration
+eth zurich
+kalman filter
+pulsed laser system
+differential absorption
+tapered waveguide
+ultralight dark matter
+ultralight bosonic dark matter
+relative energy shift
+laguerre gauss beam
+twisted light
+characteristic timescale
+pseudopotential model
+semi classical calculation
+high performance computing
+spin frequency
+microwave measurement
+dc bias
+single shot measurement
+chirped pulse amplification
+solid state science
+hot carrier
+flight spectrometer
+knife edge
+single photon excitation
+zeeman sub level
+non perturbative analysis
+nuclear shell structure
+perturbative analysis
+neutron number
+single photon source
+collective quantum state
+room temperature single photon source
+dual mode operation
+dual mode
+configurational entropy
+sorting algorithm
+simultaneous spectroscopy
+factorization method
+dispersion force
+wave coupling
+single atom laser
+spectral variation
+space geodesy
+penn state
+resonant charge transfer
+rotating molecule
+fundamental mode
+rectangular waveguide
+power meter
+electron focusing
+gyration radius
+extreme ultraviolet spectroscopy
+uv spectroscopy
+ultraviolet spectroscopy
+spatial coordinate
+lowest excited state
+correlated pair
+dynamic stark effect
+ion trap quantum computing
+oscillating dipole
+plasma source
+cosine law
+periodically driven optical lattice
+pointing stability
+piezo actuator
+ultracold ensemble
+magnetic field sensor
+nv center
+single metal atom
+magnus expansion
+absolute sensitivity
+collective behavior
+side band
+ground state spin
+intensity measurement
+path difference
+power electronics
+peak current
+zero point energy
+cold ion trap
+molecular feature
+hybridized electronic state
+heavy metal
+statistical noise
+branch cut
+cross talk
+debye length
+high field nmr
+magnetic sensor
+gradient noise
+molecular electronic structure
+energy quantization
+angle resolved photoemission
+ultracold neutral plasma
+expansion velocity
+gray molasses
+hydrogen like system
+fundamental interaction
+plasma simulation
+recombination suppression
+laser cooled trapped ion
+mean photon number
+coherent driving field
+superradiant mode
+runge kutta
+emission line intensity
+bit error rate
+high sensitive measurement
+center frequency
+digital communication
+bit error
+signal distortion
+modulating signal
+photon detection efficiency
+photon detection
+occupation number
+linear zeeman splitting
+measurement error
+counter clockwise
+noble element
+super heavy
+resonant cavity
+electron positron annihilation
+hydrogen cyanide
+coordinated universal time
+la palma
+collisional heating
+strong atom field coupling
+quadrupole excitation
+time ordered perturbation theory
+time ordered diagram
+quantum metrology
+quantitative measurement
+particle theory
+electric charge distribution
+fermi distribution
+reference standard
+absorption resonance
+kramers equation
+force curve
+noise suppression
+stern gerlach experiment
+qubit array
+measurement fidelity
+measured binding energy
+dimer binding energy
+carbon molecule
+mean phonon number
+exponential distribution
+hamiltonian action
+radioactive decay
+conversion electron
+electron spectrometer
+electron capture decay
+semi empirical calculation
+hall probe
+ultra sensitive measurement
+optimum sensitivity
+adiabatic perturbation theory
+adiabatic perturbation
+nonadiabatic correction
+rotational band structure
+excess electron
+antibound state
+subthreshold resonance
+spin magnetization
+atom light coupling
+atom light coupling strength
+partially coherent light
+coherent light beam
+electro magnetically induced transparency
+optical speckle pattern
+speckle pattern
+collective rydberg excitation
+frequency sweep
+maxwell boltzmann distribution
+boltzmann distribution
+gas kinetics
+phase retrieval problem
+attosecond light source
+phase retrieval
+optical interferometry
+double loop
+earth gravity
+broadband frequency
+orbital plane
+scattered radiation
+polarization purity
+polarization signal
+photon conversion efficiency
+optical conversion
+density functional study
+ion trap quantum computer
+electric dipole mode
+predictive model
+frequency scaling
+plane mode
+johnson noise
+chemical specificity
+superconducting microwave circuit
+microwave circuit
+macroscopic polarization
+high resolution calculation
+differential form
+isotropic line
+nonzero angular momentum
+calculated energy level
+gallium nitride
+lorentzian linewidth
+super resolution imaging
+super resolution
+transient response
+signal photon
+nonpolar molecule
+photon probe
+quantum mechanical uncertainty
+quantum mechanical uncertainty relation
+electron coulomb interaction
+quantum dynamical
+muon magnetic moment
+muonic hydrogen lamb shift
+anomalous muon magnetic moment
+lamb shift measurement
+transition metal dichalcogenide
+electronic phase transition
+high tc superconductor
+local electronic density
+attosecond time resolution
+light induced excitation
+electronic localization
+electron thermalization
+interaction theory
+nonlinear optical effect
+magneto optical experiment
+finite cardinality
+steady state solution
+transient solution
+signal correlation
+resonant inelastic x ray scattering
+inelastic x ray scattering
+atomic distribution
+unpaired electron
+electron interferometry
+multiple system
+magnetic dipole radiation
+dipole radiation
+para state
+physical state
+taylor expansion
+interference phase
+thermal hysteresis
+partial wave expansion
+electronic structure theory
+scalar coupling constant
+virial expansion
+point particle
+electron vortex beam
+optical vortex beam
+electron vortex
+information theoretic
+electron anisotropy
+water vapor
+oxygen absorption
+cloud base
+phase transfer
+spin dephasing time
+electrostatic interaction
+solid phase
+transverse relaxation
+uniform density
+point source
+rotation vector
+vector measurement
+trapped atom clock
+technology readiness level
+technology readiness
+absorption detection
+quantum statistical theory
+nuclear matrix
+surface plasmon polariton
+plasmon polariton
+hollow core photonic bandgap fiber
+photonic bandgap
+fiber core
+phase response
+noise sensitivity
+sensitivity function
+oscillator model
+damped oscillator
+muons magnetic moment
+dark sector
+dark photon
+modal structure
+optical communication
+time resolved detection
+belle experiment
+falling edge
+parity time symmetry
+charge parity time
+magnetic dipole term
+goldilocks zone
+exact diagonalization scheme
+electronic structure investigation
+bond angle
+vertical gradient
+electro optic frequency comb
+mutual coherence
+methane gas
+crystalline material
+bloch electron
+michelson interferometer
+molecular dipole
+spin noise spectrum
+modulated magnetic field
+uncertainty evaluation
+emission lifetime
+transverse focusing
+closed loop control
+high precision metrology
+magnetic field stability
+higher order gradient
+acceleration gradient
+probability density function
+low power laser
+vector space
+electron detector
+coulomb blockade
+shielding effect
+reactive molecule
+divergence theorem
+vector calculus
+fundamental force
+resonance measurement
+plasma frequency
+bistable behavior
+binomial coefficient
+shape theory
+bounded space
+ion trap experiment
+quantum structure
+balmer jump
+balmer series
+asymptotic formula
+accurate mass
+electron beam splitter
+quantum processor
+parallel line
+symmetric square
+friction coefficient
+resonant behavior
+population response
+single tone
+time resolved x ray scattering
+vibrational wave packet
+x ray scattering pattern
+semi empirical expression
+single quantum emitter
+photon anti bunching
+quantum emitter
+cross coupling
+anti bunching
+inelastic scattering rate
+superconducting magnet
+gravitational wave detector
+gravity gradient noise
+gw detection
+high quantum efficiency
+magnetic field imaging
+medical imaging
+biomedical imaging
+large spin orbit interaction
+hunds rule
+ultra short laser pulse
+autocorrelation measurement
+inelastic neutron scattering
+elastic neutron scattering
+compound nucleus
+radio frequency atomic magnetometer
+materials characterization
+hydrogen gas
+keplerian orbit
+molecular electric dipole moment
+doppler frequency shift
+isotopic ratio
+light induced frequency shift
+signal light
+li system
+component model
+driving laser intensity
+gaussian noise
+photon annihilation
+short note
+induced phase transition
+light induced phase transition
+temporal imaging
+fe ii emission line
+astronomical object
+target mode
+black hole accretion
+black hole accretion disk
+density range
+quadratic zeeman coefficient
+high resolution experiment
+fwhm energy resolution
+oscillation structure
+phase accumulation
+classical monte carlo simulation
+relative gain
+field study
+metal element
+x ray emission spectrum
+correlated gaussian basis function
+gravitational red shift
+gravito magnetic effect
+arm length
+laser operation
+hyperbolic secant
+coherent pumping
+phase shift keying
+quadrature phase shift keying
+binary phase shift keying
+error vector magnitude
+bit stream
+binary phase
+error vector
+quadrature phase
+qam modulation
+dependent source
+relativistic coupled cluster study
+magnetic spin
+musical instrument
+musical composition
+reliable theoretical prediction
+molecular spectrum
+full inclusion
+resolved imaging
+unitary transformation
+spin representation
+unitary transform
+short lived radioactive isotope
+neutron decay
+delayed neutron
+neon isotope
+transverse magnetization
+canonical momentum
+interferometric scheme
+fringe shift
+electronic effect
+wave spectrum
+spectral signal
+microwave spectrum
+cp violating observable
+free precession
+coulomb wave function
+wave function evolution
+semiclassical picture
+temporal measurement
+ultra soft
+spin diffusion
+characteristic energy
+pressure sensor
+quantum pressure
+ice flow
+cumulative energy
+optical pulse propagation
+graded index fiber
+gas filled hollow core fiber
+graded index
+micro lensing
+ground atom
+swift heavy ion
+ion surface interaction
+solid surface
+cancer treatment
+infrared emission
+surface modification
+higher harmonic generation
+rayleigh range
+narrow optical transition
+phase stability
+code package
+spin correlation effect
+absolute uncertainty
+computational bottleneck
+amplified spontaneous emission
+laser pulse propagation
+photon radiation
+qubit entangling gate
+large scale quantum computer
+high fidelity quantum gate
+trapped ion qubit
+long chain
+entangling gate
+microscopy technique
+line source
+resonance pattern
+renormalization procedure
+feynman propagator
+isotope shift spectroscopy
+earth system
+radial frequency
+pronounced resonance
+atom photon interaction
+photonic system
+unit length
+quantitative spectroscopy
+intense electromagnetic field
+spectral line profile
+photon polarization
+wave plate
+static analyzer
+cylindrical electrode
+wien filter
+active element
+analytical scaling
+drift tube
+superconducting coil
+imaging method
+non zero orbital angular momentum
+femtosecond resolution
+electron imaging
+partial agreement
+raspberry pi
+electronic component
+extreme value
+pump probe measurement
+ultracold atomic ensemble
+scattering center
+external rotation
+kinetic motion
+laser pulse energy
+fluorescence polarization
+systematic bias
+low temperature plasma
+matter wave interference pattern
+relativistic dirac equation
+electron photon coupling
+photon coupling
+intrinsic noise
+cats eye
+optically dense medium
+spin precession measurement
+symmetric eigenvalue problem
+md simulation
+holy grail
+acousto optic deflector
+angle resolved measurement
+electric vector
+analytic representation
+deep neural network
+deep neural net
+self amplified spontaneous emission
+machine learning
+neural network
+neural net
+attosecond regime
+performance analysis
+led light
+time dependent dft
+low energy ion scattering
+parity conservation
+radioactive nucleus
+ab initio quantum mechanical calculation
+applied laser pulse
+particle accelerator
+long range dipolar interaction
+linearly polarized emission
+adverse effect
+birds eye view
+laser ion acceleration
+ponderomotive force
+ion acceleration
+quantum diffraction
+ring distribution
+fundamental particle
+spin dependent interaction energy
+quantum interferometry
+induced spin orbit coupling
+vector polarization
+measured production rate
+anti symmetric
+quantum enhanced sensor
+spatial field
+vacuum rabi splitting
+rabi splitting
+large quality factor
+non linear compton scattering
+perfectly conducting plate
+atom surface distance
+ultrafast experiment
+ab initio theoretical calculation
+rotation amplitude
+thermal lattice vibration
+lattice vibration
+phonon excitation
+harmonic crystal
+crystal model
+high resolution infrared
+infrared spectrum
+echelle spectrograph
+infrared spectrometer
+narrow linewidth transition
+radiative transition rate
+absorption band
+molecular behavior
+quantum ensemble
+super heavy element
+collective spontaneous emission
+far field excitation
+confidence limit
+exchange energy
+leading order effect
+laser pump
+molecular volume
+high precision probe
+precision probe
+orbit dynamic
+intriguing quantum phenomenon
+interspecies interaction strength
+weighted geometric mean
+electrons scattering
+spectral splitting
+optical waveform
+waveform reconstruction
+positive feedback mechanism
+feedback mechanism
+clustering algorithm
+faithful model
+phase reconstruction
+reconstruction fidelity
+dynamic decoupling
+laser driven electron
+mesoscopic system
+nanometer scale
+dielectric nanostructures
+material engineering
+nano engineering
+continuous time quantum walk
+quantum search algorithm
+quantum walk
+quantum search
+thz radiation
+ab initio electronic structure calculation
+ab initio electronic structure
+quantitative comparison
+dirac delta function
+energy operator
+continuum perturbation theory
+partial pressure
+tomographic measurement
+planar projection
+tin isotope
+breit equation
+special function
+exponential function
+single frequency laser
+ap star
+time dependent mean field theory
+time dependent mean field
+screening mechanism
+truncation error
+finite resolution
+transition element
+quadrupole deformation
+electrical charge
+interpolation formula
+intramolecular interaction
+spatial compression
+constant value
+particle acceleration
+polarized target
+ultra high frequency
+proton lifetime
+single photon resonance
+optical binding
+mutual exchange
+radio frequency spectrum
+polarimetric observation
+optical susceptibility
+propagating wave
+cooling theory
+targeted radionuclide therapy
+radioactive element
+quantum wave function
+deep learning
+feynmans formulation
+transmission matrix
+continuous phase
+ionization model
+electron velocity
+line pair
+density diagnostics
+wide band
+dynamical spectrum
+instantaneous phase
+charge charge interaction
+metric geometry
+resonant transmission
+angular separation
+magnetic resonance spectrum
+bloch sphere
+interference measurement
+ramsey interference
+runge lenz vector
+laplace runge lenz vector
+newton constant
+intermolecular interaction
+interstellar space
+imaging detector
+propylene oxide
+biological homochirality
+steady state distribution
+spinor bose gas
+spin changing collision
+spin manifold
+spinor gas
+spinor atom
+right circularly polarized light
+financial transaction
+integrated photonic circuit
+optical mode
+nano structure
+photonic circuit
+heating system
+heteronuclear diatomic molecule
+decay cascade
+electronic excitation energy
+penning trap mass spectrometry
+coherent system
+symmetric sequence
+fragmentation mechanism
+ice core
+dynamic signal
+thousand fold
+coriolis effect
+optical phase shift
+phase shifting interferometry
+phase shifting
+electron spin dynamic
+fast decay time
+dipolar coupling
+second order differential equation
+energy conservation law
+infrared radiation
+pulse repetition frequency
+frequency comb source
+repetition frequency
+symmetry forbidden
+linear system
+nonlinear system
+intensity autocorrelation function
+spin tensor
+free spectral range
+high sensitivity detection
+anti node
+strong circular dichroism
+leading logarithmic contribution
+oxygen molecule
+interstellar chemistry
+quantized electromagnetic field
+scalar dark matter
+angular momentum alignment
+crc press
+asymptotic expression
+transmission power
+coherent transmission
+trace gas
+molecular mass
+momentum exchange
+optical spectral line
+ion mobility
+qubit gate
+beam quality
+transverse emittance
+trapped ion system
+small form factor
+mechanical stability
+quantum chemistry computation
+spin evolution
+statistical principle
+arrival time delay
+bohr van leeuwen theorem
+rotation frequency
+canonical coordinate
+rotational inertia
+van leeuwen
+twisted light beam
+high energy x ray
+quantum gravity
+breit wigner
+molecular dipole moment
+visual method
+motional frequency
+gas flow
+thermal mass
+cubic centimeter
+direct optical measurement
+loop closure
+optical tweezer array
+magic angle
+equilibrium bond length
+machine learning analysis
+quantum state distribution
+parity transformation
+laser cooled atomic ensemble
+fermionic atomic gas
+electron orbital angular momentum
+iron group
+black box
+solar magnetic field
+solar corona
+space weather
+embedded system
+energy level population
+excited state energy level
+electric quadrupole coupling constant
+interferometric experiment
+mass spectroscopy
+nuclear magnetic shielding
+axially symmetric field
+occupied molecular orbitals
+quantum signature
+chiral discrimination
+vector spherical harmonic
+electric field polarization
+vector field
+quantum oscillator
+non destructive measurement
+optical ring cavity
+phase shift measurement
+cavity linewidth
+paired photon
+phase contrast imaging
+phase contrast
+coherent operation
+feynman graph
+thermal interaction
+rotational period
+root mean square radius
+neutron star merger
+motion detection
+excited state structure
+quantum state manipulation
+coherent quantum state
+chemical substitution
+unprecedented time resolution
+ab initio electronic structure theory
+light cycle
+semi classical theory
+plasmonic resonance
+fusion evaporation reaction
+rarefied gas
+evaporation residue
+fundamental light matter interaction
+electronic band
+microwave link
+robust quantum information processing
+qubit coherence
+qubit rotation
+spin orbit coupled bose einstein condensate
+matter wave soliton
+synthetic spin orbit coupling
+spin orbit coupling induces
+matter wave bright soliton
+nonlinear optical lattice
+ordinary matter
+optical interferometer
+rf wave
+resonance wavelength
+extreme uv
+gw observation
+frequency window
+instrumental sensitivity
+spin wave excitation
+atomic spin wave
+emission intensity
+pulse shaper
+repulsive force
+random matrix theory
+quantum correspondence
+ultrafast measurement
+number state
+larmor radiation
+proton interaction
+radiation detector
+operating frequency
+quantum sensing
+schwinger limit
+determining mechanism
+mott insulator phase
+optimal control technique
+liquid xenon
+chemical abundance
+light scalar dark matter
+performance enhancement
+molecular configuration
+higher order spatial mode
+spatial mode
+gouy phase
+power enhancement
+pockels cell
+parallel spin
+orbital variation
+phonon calculation
+moment tensor
+group theory
+inertial navigation system
+continuous measurement
+orientation measurement
+large scale quantum information processing
+deep ultraviolet
+quasi classical trajectory
+upper density
+polarization mechanism
+hydrogen chloride
+chlorine atom
+ultrafast electron microscopy
+spatially resolved characterization
+peak load
+fiber axis
+probing technique
+fractional revival
+quantum carpet
+density pattern
+ultracold matter
+quantum interaction
+quenching mechanism
+plancks law
+electrical discharge
+fundamental theory
+shadow effect
+condensed phase
+superfluid helium
+accurate modelling
+magnetic fine structure
+cutoff frequency
+collective spin variable
+poisson bracket
+star product
+collective spin
+ion displacement
+trapped ion quantum computation
+surface characterization
+ultracold atom experiment
+superconducting radio frequency
+motional heating rate
+quadrupole mode
+cooling system
+rf cavity
+photo dissociation
+diffusion model
+atmospheric pressure
+fusion model
+trapping laser wavelength
+decimal digit
+simultaneous interrogation
+nickel isotope
+coherent light field
+nonlinear transmission
+scale effect
+molecular movie
+high quality factor
+distributed bragg reflector
+bragg reflector
+modulation bandwidth
+linear ion crystal
+phase diagram
+continuous model
+dynamic memory allocation
+memory usage
+load balancing
+load distribution
+memory allocation
+dynamic memory
+linear scalability
+coherence protection
+transverse trap frequency
+triplet excited state
+right handed circular polarization
+femtosecond light pulse
+slow electron elastic scattering
+principal component analysis
+laser induced breakdown spectroscopy
+principal component
+explained variance
+component analysis
+chemical structure
+line element
+cross correlation
+partial wave amplitude
+optical interference
+molecular polarizability
+high fidelity preparation
+electron tunnelling
+bayesian optimization
+force profile
+super fluid
+er fluid
+non radiative rate
+ks equation
+excited state decay
+optical information processing
+cross kerr nonlinearity
+cross kerr nonlinearities
+kerr nonlinearities
+wide energy window
+governing equation
+focusing effect
+computer software
+inner diameter
+long lived metastable state
+resonant elastic scattering
+low energy isomer
+equilibrium constant
+helium dimer
+wolfram mathematica
+collision geometry
+perturbation theory correction
+symmetric top molecule
+actinide element
+periodically poled lithium niobate
+lithium niobate
+nonlinear crystal
+spin lifetime
+ab initio modeling
+forward scattering peak
+sensor performance
+wave polarization
+single rubidium atom
+ensemble measurement
+x ray photoelectron spectroscopy
+x ray photoelectron
+silicon dioxide
+refractory metal
+bound state excitation
+international atomic energy agency
+prime number
+rank width
+standard form
+binding model
+euler angle
+trial wavefunction
+analytic wave function
+quantum mechanical variable
+organic molecule
+delivery system
+molecular jet
+slater determinant
+curvilinear coordinate
+single cell
+source localization
+magnetic skyrmion
+vacuum polarisation
+beam splitting
+photon transport
+polar ice
+crystal field splitting
+high frequency band
+steady state excitation
+crystal field
+higher order harmonic generation
+topological material
+radial distance
+optical soliton
+silicon vertex detector
+charge neutrality
+atom optical element
+ring expansion
+coupled quantum dot
+quantum heat engine
+coulomb coupled quantum dot
+bias voltage
+heat engine
+delay variation
+magnetic field production
+clear aperture
+coulomb excitation
+lorenz force
+centrifugal force
+positioning system
+molar ratio
+electronic structure problem
+magnetic dichroism
+mean dwell time
+quarter wave plate
+atomic excitation
+electron spin coherence
+electron spin coherence time
+collisional broadening
+convolutional neural network
+convolutional neural net
+absolute error
+space form
+bandpass filter
+pass filter
+atom lifetime
+evanescent wave
+elastic wave
+phononic crystal
+benzene molecule
+aromatic hydrocarbon
+structure function analysis
+structure function
+turbulence theory
+turbulent fluid
+modulation index
+centrifugal effect
+photon interferometry
+accepted value
+molecular spin
+beam divergence
+dynamical decoupling sequence
+nmr detection
+semiconductor quantum dot
+pauli principle
+artificial atom
+symmetry operation
+fermi sea
+repulsive polaron
+virial theorem
+thermal ablation
+magnetic field sensing
+probing magnetic field
+remote detection
+oceanic circulation
+field sensing
+laser plasma interaction
+ambient pressure
+temporal stability
+digital system
+analog circuit
+resonant circuit
+josephson voltage standard
+alternating current
+ac voltage
+voltage measurement
+close binary
+sharp peak
+momentum uncertainty
+polariton system
+population decay
+high resolution spectroscopic survey
+femtosecond x ray pulse
+hard x ray pulse
+alpha emission
+compton profile
+ghost imaging
+acceptance angle
+quantum enhanced sensing
+dark matter detection
+space mission
+neutrino mass limit
+neutrino mass
+acceptable loss
+quantum simulation experiment
+quantum simulation platform
+interstellar gas
+force carrier
+final product
+spatio temporal effect
+covalent bond
+fabry perot microcavity
+transport efficiency
+accurate extraction
+ferromagnetic material
+toy model
+phase lag
+cross resonance
+local field strength
+exact energy eigenstates
+unambiguous measurement
+measured resonance frequency
+high resolution spectrum
+parametric frequency conversion
+gradient field
+integrated optic
+electron screening effect
+clebsch gordan coefficient
+quantum optical experiment
+quantum precision measurement
+relativistic density functional theory
+relativistic density functional
+correlation functional
+photoelectron circular dichroism
+molecular chirality
+wave function density
+continuum resonance
+triple product
+electroweak interaction
+dark matter axion
+axion search
+spin tunneling
+cylindrical coordinate
+dyson series
+semiclassical trajectory
+effective coupling strength
+curved surface
+high precision computation
+quantum state preparation
+ioffe pritchard magnetic trap
+reciprocal space
+ct imaging
+civil engineering
+dual purpose
+perturbative expansion
+sed fitting
+positron emission
+electric dipole amplitude
+reflection coefficient
+magnetic circular dichroism
+ion selectivity
+polarization selectivity
+heterodyne receiver
+orbital velocity
+rotation sensor
+ballistic trajectory
+heisenberg model
+mechanical vibration
+quantum repeater
+carbon chain molecule
+ab initio time dependent density functional theory
+carbon chain
+band spectroscopy
+molecular backbone
+quantum interference control
+optical theorem
+rotational angular momentum
+polarizable molecule
+variational calculus
+spin doublet
+square integrability
+accurate phase retrieval
+proton beam
+power spectral density
+second harmonic frequency
+acousto optic modulation
+time resolved fluorescence
+force sensing
+mechanical sensing
+time dependent response
+matched filter
+vortex dynamic
+wavefront sensor
+reference value
+relative mass
+precise mass
+metal poor
+oxygen atom
+magnetic dipole interaction
+micrometer spatial resolution
+electron spin state
+focused electron beam
+scattering asymmetry
+optical path length
+path length
+fresnel diffraction
+extreme intensity
+quadrupole amplitude
+magnetic field control
+planar surface
+stray field
+stream function
+spin sensor
+magnetic resonance peak
+nonperturbative calculation
+ionizing radiation
+time independent gross pitaevskii equation
+entangled light
+photon laser spectroscopy
+dark matter interaction
+coherent spin precession
+noise power spectrum
+sensor array
+magnetic imaging
+clinical imaging
+dynamical simulation
+physical law
+vibration frequency
+circularly polarized wave
+polarimetric detection
+quantum optical system
+discrete symmetry
+full cycle
+cooling protocol
+micro electro mechanical system
+fabrication technique
+microfabrication technique
+electro mechanical
+white gaussian noise
+magic wavelength optical lattice
+clock cycle
+dynamical tunneling
+radiation gauge
+boron nitride nanotube
+van der waals heterostructure
+peak value
+boron nitride
+molybdenum disulfide
+compressive stress
+buckling behavior
+graphite crystal
+electromagnetic form factor
+magnetic form factor
+least squares fitting procedure
+charge excitation
+scalar particle
+atom entangled state
+entangling operation
+orbital angular momentum quantum number
+spherical basis
+optical pumping rate
+ridge regression
+extrapolation method
+regression algorithm
+monopole solution
+electric force
+boson field
+fermi constant
+empirical scaling law
+single molecular ion
+coherent frequency comb
+rotational spectroscopy
+full scale
+bi directional
+bit resolution
+wide gap
+high resolution capability
+resolution capability
+hadronic atom
+particle scattering
+spherical function
+microwave imaging
+density functional description
+optically active state
+special situation
+low energy resonance
+conjugated system
+loop gap resonator
+quantum radiation field
+raman spectroscopy study
+complete characterisation
+diamond lattice
+diamond crystal
+raman signal
+vacancy concentration
+dimensionless constant
+electron density function
+wave resonant interaction
+heavy light
+atomic decay rate
+atomic decay
+broad band
+massively parallel
+laser scanning
+laser scan
+charge screening
+ionization efficiency
+atomic bond
+transient state
+lennard jones interaction
+recombination loss
+stellar emission line
+stellar emission
+picosecond timescale
+electric field sensing
+ground state electronic
+split pair
+fluorescence experiment
+double quantum coherence
+coherent multidimensional spectroscopy
+hot electron
+single atom interferometer
+double beta decay
+ka band
+molecular perturbation
+time independent schrodinger equation
+single electron excitation
+energy dependency
+bloch surface wave
+periodic photonic structure
+casimir polder effect
+incidence angle
+photonic integration
+support vector machine
+transfer learning
+decision tree
+pathfinder mission
+statistical ensemble
+time dependent gross pitaevskii equation
+relative value
+neutral state
+surface hopping
+plasma kinetics
+face feature
+optical oscillator strength
+steep slope
+kalman filtering
+error analysis
+principal series
+radio interferometry
+moment calculation
+internal reference
+energy analysis
+signal transduction
+spectrum analyzer
+scalar dark matter candidate
+quantum chromodynamic
+state transition rate
+instrument sensitivity
+ion binding
+rigged hilbert space
+topological analysis
+red band
+isotope fractionation
+spline basis function
+spline function
+solution set
+atomic gyroscope
+vibronic interaction
+optical telecommunication
+excitation curve
+ultrastrong laser field
+emccd camera
+lorentzian function
+euler maruyama
+full treatment
+hydrogen sulfide
+uv photolysis
+rotational broadening
+single shot imaging
+clear spatial correlation
+high precision instrument
+structured light
+intrinsic orbital angular momentum
+local atomic environment
+structural disorder
+channel capacity
+storage unit
+quantum storage
+electron hole recombination
+femtosecond laser irradiation
+bulk material
+hessian matrix
+light ray
+catastrophe theory
+semiclassical action
+rice ramsperger kassel marcus
+transient electronic structure
+singlet excited state
+low lying vibrational state
+quantum gas microscope
+high energy density plasma
+energy density
+precise spectroscopy
+feedback stabilization
+battery power
+battery powered
+thin film coating
+density map
+aromatic ring
+migration mechanism
+branching fraction measurement
+spherical model
+pure element
+boltzmann equation
+relative difference
+electron tunneling spectroscopy
+tunneling spectroscopy
+bare particle
+measured spectral line
+vital information
+cumulative distribution function
+inverse transform sampling
+sampling method
+cumulative distribution
+weighted sampling
+kilonova ejecta
+nature comm
+ground state preparation
+additive manufacturing
+atomic fine structure
+hermite gaussian mode
+integrated photonics
+beam structure
+large frequency shift
+quantum information device
+waveguide qed
+seeded free electron laser
+relativistic star
+photonic integrated circuit
+optical conveyor belt
+integrated circuit
+conveyor belt
+propagating wave packet
+thz detection
+thermal control system
+static load
+flight mode
+subharmonic resonance
+mean field analysis
+crystal field theory
+stability study
+spectral observation
+oscillation mode
+parametric oscillation
+sequential model
+chemical specie
+target field
+gas production
+spin echo measurement
+magnetic fluctuation
+electromagnetic fluctuation
+co crystal
+transition density matrix
+transition density
+single photon pulse
+spin manipulation
+helical structure
+electron donor
+resonant laser pulse
+net spin polarization
+rotationally invariant
+deep optical lattice
+dissipative optical lattice
+energy dispersive x ray
+thickness measurement
+large spin polarization
+transmission electron microscopy
+electron energy loss spectroscopy
+scanning transmission electron microscopy
+electron energy loss
+scanning transmission electron
+self diffusion
+electron probe
+strong electron correlation effect
+langevin equation
+stochastic simulation
+energy relaxation
+floating point arithmetic
+general law
+topological state
+logical system
+correlated spectrum
+constant current source
+localized electronic state
+lorentzian line shape
+atomic absorption line
+localized electron
+local lorentz symmetry
+energy level crossing
+coupled channels calculation
+magnetic stripe
+magnetic strip
+ray tracing
+dark count rate
+dark count
+silicon photomultiplier
+determinantal equation
+angular momentum decomposition
+asymptotic series
+alpha quartz
+gas expansion
+retro reflection
+quantum logic operation
+logic operation
+population density
+implicit assumption
+coherent integration
+signal theory
+weakly bound complex
+helium nanodroplets
+resonant pulse
+pulse wave
+meta stable
+stability matrix
+semiconductor diode
+superconducting josephson junction
+critical tunneling current
+josephson effect
+driven pendulum
+chiral perturbation theory
+rank correlation coefficient
+correlation coefficient
+rank correlation
+x ray generation
+probe absorption spectrum
+molecular absorption
+vibrational coherence
+electric arc
+atom density profile
+talbot distance
+echo effect
+quantum kicked rotator
+quasi periodic
+quasi period
+kicked rotator
+fabry perot etalon
+inverse scattering theory
+inverse scattering
+inversion method
+non thermal desorption
+stainless steel
+resonance frequency shift
+wave amplification
+electrically polarizable atom
+wave packet evolution
+resonance scattering
+physical evidence
+interacting fermi gas
+spin axis
+non destructive imaging
+negative sign
+magnetic field map
+magnetic field mapping
+atom manipulation
+quantum mechanical scattering
+n body problem
+base function
+diffusion monte carlo
+variational monte carlo calculation
+diffusion monte carlo simulation
+coherent time evolution
+discrete value
+long tail
+transport equation
+ground state stability
+physical observables
+cohen tannoudji
+field propagator
+mixed state
+magnetic soliton
+soliton energy
+aromatic compound
+quadrupolar interaction
+mathematical relation
+cylindrical symmetry
+particle response function
+single particle response
+particle response
+proton structure
+inversion symmetry
+action angle
+absorption line shape
+bosonic atoms confined
+lattice energy
+ferromagnetic nature
+zero sound
+sharp edge
+fresnel zone
+differential mode
+canonical ensemble
+number theory
+ct number
+coupled channel formalism
+angular correlation function
+dimensionless coupling constant
+discrete rotational symmetry
+weak decay
+thermal width
+right circular cylinder
+circular cylinder
+lyman alpha
+quantum mechanical formulation
+homogeneous polynomial
+laplace equation
+coordinate vector
+asymmetric fano resonance
+hopf bifurcation
+homogeneous distribution
+self oscillation
+lattice constant
+spatial diffusion
+brownian motion
+einstein relation
+surface structure
+specular reflectivity
+optical near field
+dielectric structure
+radial excitation
+instanton solution
+radial oscillation
+finite amplitude
+condensate density
+quantum molecular dynamic
+action principle
+balance equation
+windowed fourier transform
+ultracold atomic collision
+frequency modulated light
+precision optical measurement
+vertical distance
+density operator
+electron ion recombination rate coefficient
+functional derivative
+radiation pattern
+excited state spectrum
+phase velocity
+stochastic resonance
+intensity modulation
+propagation mode
+angular momentum operator
+orbital angular momentum operator
+optical polarisation measurement
+polarisation measurement
+optical polarisation
+optical tomography
+tightly focused laser beam
+partial sum
+particle excitation
+partial summation
+rf spectrum
+mean width
+optical pump probe technique
+photoabsorption spectrum
+electronic distribution
+physical sign
+de broglie wave length
+chromatic aberration
+wave function collapse
+homogeneous medium
+electron mobility
+going back
+collision probability
+collision frequency
+going backwards
+electron dipole moment
+lamb shift correction
+attractive coulomb interaction
+resonant solution
+traveling wave field
+quantum flux
+mathematical analysis
+computing machine
+time dependent magnetic field
+laser cooled atomic ion
+cooling line
+cavity resonator
+sub kelvin temperature
+resonance behavior
+ultracold trapped atom
+scalar diffraction theory
+reflection grating
+integral transform
+integral expression
+kinetic energy operator
+perturbed harmonic oscillator
+cosmological evidence
+correlation structure
+ring geometry
+physical quantity
+spectral energy
+variational ground state
+stochastic model
+relaxation frequency
+monic polynomial
+harmonic polynomial
+trapped ultracold gas
+perturbation approach
+force field
+conservative force
+shape transformation
+linear model
+whittaker function
+magnetic resonance imaging
+high pressure experiment
+nmr spectroscopy
+pressure experiment
+mr spectroscopy
+hydrogen deuteride
+nanoscale structure
+intermolecular distance
+gps signal
+phase integral
+strong optical coupling
+association signal
+coherent backscattering cone
+contrast variation
+balanced detection
+rare decay
+ab initio numerical simulation
+time evolution operator
+function space
+light cone
+distribution space
+longitudinal electric field
+mirror symmetry
+statistical correlation
+levy flight
+optical transition frequency
+exponential decay law
+complex spatial pattern
+spin polarization density
+spatial pattern
+standard scale
+degenerate energy level
+magnetic field reversal
+quantum mechanical spin
+anti commutator
+transverse stability
+matter wave diffraction
+silicon nitride surface
+phase mask
+jahn teller
+waveguide mode
+pressure induced shift
+fine structure constant measurement
+electronic charge density
+propagation velocity
+computer model
+computer modelling
+wave propagation
+wet etching
+scanning electron
+quantum delocalization
+quantum nondemolition measurement
+quantum nondemolition
+heisenberg uncertainty
+nondemolition measurement
+fermion condensate
+fermionic condensate
+trapped fermion
+adiabatic oscillation
+interaction length
+energy storage
+unrestricted hartree fock
+spherical quantum dot
+rms velocity
+narrow gap
+continuous wave laser light
+amplitude modulated optical lattice
+modulation strength
+quantum monte carlo calculation
+superfluid fermi gas
+particle spectrum
+quasiparticle spectrum
+composite boson
+superfluid gas
+coherent quantum dynamic
+quantum localization
+graphical technique
+transformation matrix
+wicks theorem
+quantum mechanical computation
+matrix element calculation
+feedback signal
+operator algebra
+formal expression
+quantization rule
+quadratic response
+fluctuating magnetic field
+quark model
+hydroxyl radical
+electrode array
+electrical polarization
+gaussian orbitals
+electron beam lithography
+polarization dependent measurement
+molecular rearrangement
+specular reflection
+quasar absorption system
+symmetry group
+mittag leffler expansion
+discrete set
+mittag leffler
+resonant structure
+rocking curve
+golden ratio
+standard map
+kaonic atom
+recoil induced resonance
+optical anisotropy
+spin precession angle
+linear amplification
+magnetic moment distribution
+bardeen cooper schrieffer
+pair distribution function
+molecular bose einstein condensation
+quantum fluid
+spherical aberration
+exchange symmetry
+dirac particle
+photon decay width
+final stage
+dynamical interaction
+spherically symmetric field
+resonant motion
+localized wave function
+effective form factor
+neutrino detector
+linear operator
+finite dimension
+bohr atom
+compound quantum system
+particle correlation function
+zero point vibration
+single particle correlation function
+isotropic solid
+optical tuning
+atom cavity interaction
+quantum trajectory simulation
+order phase transition
+intrinsic motion
+superfluid state
+zeeman energy
+sf state
+single photon switch
+optical microcavities
+optical phase space
+semi permeable
+photon collision
+integer number
+soft ferromagnet
+cavity quantum electrodynamics
+peak power
+trapped atomic cloud
+mass resolution
+asymmetric diffusion
+self interaction force
+dynamical study
+optical focusing
+measured phase shift
+kinetic momentum
+scalar field
+coordinate transformation
+coordinate transform
+periodic motion
+watt balance
+source material
+optical aberration
+substantial suppression
+open system
+raman line
+optical reference cavity
+interacting bose gas
+superfluid fraction
+orthogonality relation
+perturbation formula
+relativistic mean field
+relativistic mean field theory
+vector meson
+polarization tensor
+active set
+electron density enhancement
+riccati equation
+non linear differential equation
+secular perturbation
+parallel projection
+line measurement
+halo neutron
+hydrogen ionization
+lorentz scalar
+nonuniform magnetic field
+geometric phase induced
+time independent perturbation theory
+gell mann
+group theoretic
+analytic density
+coherent superposition state
+quantum state measurement
+atom laser interaction
+magnetostatic field
+vibrational resonance
+thomas fermi equation
+pure electric
+rate limiting step
+quasi periodic orbit
+orbital frequency
+plancks constant
+circular motion
+harmonic mode
+resonant orbit
+high resolution spectroscopic measurement
+periodic boundary condition
+degenerate quantum gas
+state dependent control
+fermion greens function
+resonance quality factor
+bi product
+pure state
+polarization ellipticity
+ratchet effect
+power balance
+molecular population
+blue wing
+excited state wave function
+non radiative transition
+particle method
+relativistic quantum theory
+fluid dynamic
+dynamic character
+spinor state
+thermal expansion
+light bulb
+matrix algebra
+forster resonance energy transfer
+resonance energy transfer
+bardeen cooper schrieffer pairing
+nonequilibrium steady state
+equilibrium steady state
+nonlinear equation
+linear problem
+quartic oscillator
+wkb solution
+transverse orientation
+x ray satellite
+visible satellite
+coherent laser beam
+coriolis force
+liouville equation
+statistical distribution
+adaptive feedback control
+delta state
+atom loss rate
+degenerate ground state
+energy functional
+ground state distribution
+ultracold lattice gas
+interacting cold atom
+lattice defect
+high energy behavior
+low dimensional representation
+non linear medium
+linear medium
+si unit
+quantized cavity field
+light localization
+interference contrast
+excited state calculation
+spin orbital
+monovalent ion
+virtual pair
+mode volume
+spherical mirror
+particle bound state
+symmetric model
+superfluid pairing
+prime characteristic
+ion flux
+microsecond timescale
+quantum hall effect
+quantum hall
+avogadro constant
+trapped neutral atom
+sub micrometer resolution
+full spectrum
+particle displacement
+particle effect
+electrode structure
+channel effect
+angular momentum quantization
+quantized magnetic flux
+electrons magnetic moment
+protons magnetic moment
+flip flop
+excitonic transition
+pilot experiment
+global positioning system
+coupling loss
+spin coated
+closed form representation
+time projection chamber
+lorentzian profile
+energy momentum transfer
+localized structure
+local magnetic field
+analytic framework
+sparse matrix
+quantum revival
+optical delay line
+near infrared light
+light force
+diffusion quantum monte carlo
+velocity field
+energy transition
+perturbation operator
+ratchet mechanism
+protein motor
+valence band
+quantum stochastic resonance
+dipole magnetic moment
+wave guide
+phase space localization
+lithium metal
+unitary operator
+discretization method
+co moving frame
+atomic mirror
+propagation delay
+single crystal monochromator
+tomographic method
+proportionality coefficient
+collective atomic excitation
+quantized spin wave
+resonator mode
+photonic excitation
+quantized spin
+stellar line
+infrared emission spectrum
+deep trap
+dipole blockade effect
+unitary fermi gas
+fermi energy
+soft core
+cpt invariant
+relaxation kinetics
+lattice structure
+ice structure
+anharmonic oscillator
+quantum degenerate regime
+steady state response
+phase space representation
+trapped bose condensate
+bogolyubov de gennes equation
+excitation state
+leading order radiative correction
+nuclear spin orbit interaction
+pauli algebra
+trapping ion
+delayed decay
+charge coupled device
+hydrogen line
+hilbert schmidt
+convergent expansion
+dielectric response
+surface charge
+electric response
+data acquisition rate
+tensor decomposition
+spherical tensor
+mean deviation
+trace formula
+trace form
+nodal surface
+absorption model
+orthogonal linear polarization
+low lying resonance
+internal wave
+magnetic mirror effect
+magnetic mirror
+atomic spin state
+wave packet simulation
+main group element
+resonant magnetic field
+energy flow
+quantum energy
+landau orbit
+fermi dirac distribution
+fermi dirac
+dirac distribution
+soliton model
+soliton mode
+lepton number conservation
+lepton number
+antimuonium conversion
+periodic function
+spatial modulation
+helium trimer
+optical diffraction
+barrier penetration
+liouville space
+spherical triangle
+geometrical realization
+hyperbolic tangent
+steady state theory
+mean life
+optical interaction
+mean lifetime
+radiative mechanism
+relativistic coulomb problem
+hard core
+step function
+analytical function
+dimensionless unit
+dynamic stability
+linear algebra
+rabi like oscillation
+focal spot size
+focal distance
+thin lens
+polar angular distribution
+quantum geometry
+quantum space
+quantum point contact
+quantum transport
+periodic system
+individual energy level
+spin polarized ground state
+muon magnetic anomaly
+relativistic action
+semiclassical transition
+proton transfer
+laser field intensity
+finite state
+definite state
+least square method
+logarithmic singularity
