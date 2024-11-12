@@ -10,56 +10,120 @@ from gensim.models import KeyedVectors, Word2Vec
 import gc 
 
 
-def update_co_occurrences(word_year_list,word_co_occurrences):
-    # Iterate through the words in the list
-    word_list, year = word_year_list
+# def update_co_occurrences(word_year_list,word_co_occurrences):
+#     # Iterate through the words in the list
+#     word_list, year = word_year_list
     
+#     for word in word_list:
+#         # If the word is not already in the dictionary, add it with an empty list
+#         if word not in word_co_occurrences:
+#             word_co_occurrences[word] = {}
+        
+#         # Add words from the list to the co-occurrence list for the current word
+#         for other_word in word_list:
+#             # if other_word != word and other_word not in word_co_occurrences[word]:
+#             #     word_co_occurrences[word].append(other_word)
+#             if other_word != word and other_word not in word_co_occurrences[word]:
+#                 word_co_occurrences[word][other_word] = [year] 
+            
+#             elif other_word != word and other_word in word_co_occurrences[word]:
+#                 # word_co_occurrences[word][other_word][0] +=1
+#                 word_co_occurrences[word][other_word].append(year)
+
+# def keep_words_with_underscore(input_string):
+#     # Define a regular expression pattern to match words with underscores
+#     pattern = r'\b\w*_[\w_]*\b'
+
+#     # Use re.findall to extract words that match the pattern
+#     matching_words = re.findall(pattern, input_string)
+
+#     # Join the matching words to form the final string
+#     result = ' '.join(matching_words)
+#     return result
+
+# def get_word_co_occurrences(filtered_concept_arr, ngram_abstracts, year_arr):
+#     # Step 1: Create the physical concept dictionary
+#     phys_concept_dict = {k: 1 for k in filtered_concept_arr}
+
+#     # Step 2: Process the abstracts to filter words
+#     ocurr_arr = []
+#     for abstract, year in zip(ngram_abstracts, year_arr):
+#         temp = keep_words_with_underscore(abstract)
+#         if temp.count(" ") > 0:
+#             temp = temp.split(" ")
+#             temp = [s for s in temp if s in phys_concept_dict]
+#             ocurr_arr.append([list(filter(("_").__ne__, temp)), year])
+
+#     # Step 3: Update word co-occurrences
+#     word_co_occurrences = {}
+#     for word_list in tqdm(ocurr_arr):
+#         update_co_occurrences(word_list, word_co_occurrences)
+
+#     return word_co_occurrences
+
+import re
+from tqdm import tqdm
+
+# def update_co_occurrences(word_year_list,word_co_occurrences):
+#     # Iterate through the words in the list
+#     word_list, year = word_year_list
+    
+#     for word in word_list:
+#         # If the word is not already in the dictionary, add it with an empty list
+#         if word not in word_co_occurrences:
+#             word_co_occurrences[word] = {}
+        
+#         # Add words from the list to the co-occurrence list for the current word
+#         for other_word in word_list:
+#             # if other_word != word and other_word not in word_co_occurrences[word]:
+#             #     word_co_occurrences[word].append(other_word)
+#             if other_word != word and other_word not in word_co_occurrences[word]:
+#                 word_co_occurrences[word][other_word] = [year] 
+            
+#             elif other_word != word and other_word in word_co_occurrences[word]:
+#                 # word_co_occurrences[word][other_word][0] +=1
+#                 word_co_occurrences[word][other_word].append(year)
+
+#             else:
+#                 print("weird case")
+
+def update_co_occurrences(word_year_list, word_co_occurrences):
+    word_list, year = word_year_list
     for word in word_list:
-        # If the word is not already in the dictionary, add it with an empty list
+        # Ensure word has an entry in the dictionary
         if word not in word_co_occurrences:
             word_co_occurrences[word] = {}
         
-        # Add words from the list to the co-occurrence list for the current word
         for other_word in word_list:
-            # if other_word != word and other_word not in word_co_occurrences[word]:
-            #     word_co_occurrences[word].append(other_word)
-            if other_word != word and other_word not in word_co_occurrences[word]:
-                word_co_occurrences[word][other_word] = [year] 
-            
-            elif other_word != word and other_word in word_co_occurrences[word]:
-                # word_co_occurrences[word][other_word][0] +=1
+            if other_word != word:
+                # Add year to the list of years for co-occurrence without overwriting
+                if other_word not in word_co_occurrences[word]:
+                    word_co_occurrences[word][other_word] = []
                 word_co_occurrences[word][other_word].append(year)
 
+
 def keep_words_with_underscore(input_string):
-    # Define a regular expression pattern to match words with underscores
+    # Matches words with underscores
     pattern = r'\b\w*_[\w_]*\b'
-
-    # Use re.findall to extract words that match the pattern
-    matching_words = re.findall(pattern, input_string)
-
-    # Join the matching words to form the final string
-    result = ' '.join(matching_words)
-    return result
+    return re.findall(pattern, input_string)
 
 def get_word_co_occurrences(filtered_concept_arr, ngram_abstracts, year_arr):
-    # Step 1: Create the physical concept dictionary
     phys_concept_dict = {k: 1 for k in filtered_concept_arr}
-
-    # Step 2: Process the abstracts to filter words
     ocurr_arr = []
+    
     for abstract, year in zip(ngram_abstracts, year_arr):
-        temp = keep_words_with_underscore(abstract)
-        if temp.count(" ") > 0:
-            temp = temp.split(" ")
-            temp = [s for s in temp if s in phys_concept_dict]
-            ocurr_arr.append([list(filter(("_").__ne__, temp)), year])
+        matching_words = keep_words_with_underscore(abstract)
+        temp = [word for word in matching_words if word in phys_concept_dict]
+        if len(temp) > 1:
+            ocurr_arr.append([temp, year])
 
-    # Step 3: Update word co-occurrences
     word_co_occurrences = {}
     for word_list in tqdm(ocurr_arr):
         update_co_occurrences(word_list, word_co_occurrences)
-
+    
     return word_co_occurrences
+
+
 
 def similarity_cosine(arr1: np.ndarray, arr2: np.ndarray) -> float:
     """
