@@ -16,3 +16,4 @@ arxiv_venv/
 xtodelete/
 figures/
 .gitignore
+.ipynb_checkpoints

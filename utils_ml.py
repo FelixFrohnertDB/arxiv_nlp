@@ -50,7 +50,55 @@ class MLP(nn.Module):
         raw_out = self.raw(t_raw)
         out = self.output(raw_out)
         return out
+    
+class MlpDepth(nn.Module):
+    def __init__(self, raw_size, depth, drop=0.25):
+        """
+        Args:
+            raw_size: Input size of the raw data.
+            depth: Number of hidden layers in the network.
+            drop: Dropout rate.
+        """
+        super().__init__()
 
+        layers = [Flatten()]
+        input_size = raw_size
+
+        # Dynamically create layers with size reduction by a factor of 2
+        for _ in range(depth):
+            output_size = max(1, input_size // 2)  # Ensure the output size does not go below 1
+            layers.extend([
+                nn.Linear(input_size, output_size),
+                nn.PReLU(),
+                nn.BatchNorm1d(output_size),
+                nn.Dropout(drop)
+            ])
+            input_size = output_size
+
+        # Final output layer
+        layers.extend([
+            nn.Linear(input_size, 1),
+            nn.Sigmoid()
+        ])
+
+        self.model = nn.Sequential(*layers)
+        self.init_weights()
+
+    def forward(self, x):
+        return self.model(x)
+              
+
+    def init_weights(self):
+        for layer in self.modules():
+            if isinstance(layer, nn.Linear):
+                nn.init.xavier_normal_(layer.weight)  # Initialize weights
+                if layer.bias is not None:
+                    nn.init.constant_(layer.bias, 0)  # Initialize biases to zero
+            elif isinstance(layer, nn.BatchNorm1d):
+                nn.init.constant_(layer.weight, 1)
+                nn.init.constant_(layer.bias, 0)
+        
+    
 # Define the training and validation functions
 def train_one_epoch(model, train_loader, criterion, optimizer):
     model.train()
@@ -121,5 +169,6 @@ def train_model(model, train_loader, val_loader, criterion, optimizer, scheduler
             if early_stopping_counter >= patience:
                 logging.info("Early stopping triggered")
                 logging.info("Best model saved with {best_val_loss:.2f} accuracy")
+                print("Early stopping triggered",epoch,"acc",best_val_loss)
                 break
 
