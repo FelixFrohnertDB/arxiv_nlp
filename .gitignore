@@ -17,3 +17,5 @@ xtodelete/
 figures/
 .gitignore
 .ipynb_checkpoints
+AGENTS.md
+PKG-INFO

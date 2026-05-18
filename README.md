@@ -1,4 +1,7 @@
 # Overview
+
+[![MLST](https://img.shields.io/badge/MLST-10.1088/2632--2153/adb00a-blue.svg)](https://doi.org/10.1088/2632-2153/adb00a)
+
 This project investigates using word embeddings learned from arXiv abstracts in the quantum physics domain for predicting concept pair combinations.
 The workflow includes data processing, concept extraction, embedding training, predictive model training, and baseline analysis. 
 The goal is to understand concept trends and relationships in quantum literature.
@@ -25,3 +28,6 @@ Embedding and Model Training
 Additional Analysis
 6_additional_plots.ipynb: 
 - Generates additional visualizations.
+
+## Setup
+Install the project using `pip install -e .`.
